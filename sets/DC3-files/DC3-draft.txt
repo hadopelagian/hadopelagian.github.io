@@ -454,7 +454,7 @@
 			"name": "Terra",
 			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "245",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/45.png"
@@ -494,7 +494,7 @@
 			"name": "Halo",
 			"rarity": "special",
 			"mana_cost": "{G}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Spirit",
 			"collector_number": "228",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/49.png"
@@ -614,7 +614,7 @@
 			"name": "Fire and Ice",
 			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "262",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/61.png"
@@ -684,7 +684,7 @@
 			"name": "Livewire",
 			"rarity": "special",
 			"mana_cost": "{R}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "176",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/68.png"
@@ -1474,7 +1474,7 @@
 			"name": "Supergirl",
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}",
-			"type": "Legendary Creature — Alien",
+			"type": "Legendary Creature — Alien Warrior",
 			"collector_number": "281",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/147.png"
@@ -1494,7 +1494,7 @@
 			"name": "The Ray",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "183",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/149.png"
@@ -1544,7 +1544,7 @@
 			"name": "Firestorm",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/154.png"
@@ -1774,7 +1774,7 @@
 			"name": "Black Lightning",
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "254",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/177.png"
@@ -1794,7 +1794,7 @@
 			"name": "Thunder and Lightning",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "194",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/179.png"
@@ -1814,7 +1814,7 @@
 			"name": "Jade",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "230",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/181.png"
@@ -2184,7 +2184,7 @@
 			"name": "Geo-Force",
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/218.png"
@@ -2294,7 +2294,7 @@
 			"name": "Signal",
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/229.png"
@@ -2354,7 +2354,7 @@
 			"name": "Metamorpho",
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "270",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/235.png"
@@ -2744,7 +2744,7 @@
 			"name": "Obsidian",
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
-			"type": "Legendary Creature — Human Elemental",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "127",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/274.png"
@@ -3104,7 +3104,7 @@
 			"name": "Cosmic Staff",
 			"rarity": "special",
 			"mana_cost": "{1}",
-			"type": "Legendary Artifact",
+			"type": "Legendary Artifact — Equipment",
 			"collector_number": "291",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/310.png"
