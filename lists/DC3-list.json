@@ -1,0 +1,2636 @@
+﻿[
+    {
+        "card_name": "Adam Strange",
+        "number": 2,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "124"
+    },
+    {
+        "card_name": "The Atom",
+        "number": 51,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "20"
+    },
+    {
+        "card_name": "Anti-Monitor's Wrath",
+        "number": 100,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "212"
+    },
+    {
+        "card_name": "Ares",
+        "number": 149,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "44"
+    },
+    {
+        "card_name": "Alan Scott",
+        "number": 198,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "297"
+    },
+    {
+        "card_name": "Alfred Pennyworth",
+        "number": 3,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "1"
+    },
+    {
+        "card_name": "The Batmobile",
+        "number": 52,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "134"
+    },
+    {
+        "card_name": "Batgirl",
+        "number": 101,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "159"
+    },
+    {
+        "card_name": "Arsenal",
+        "number": 150,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "178"
+    },
+    {
+        "card_name": "Animal Man",
+        "number": 199,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "280"
+    },
+    {
+        "card_name": "Amethyst",
+        "number": 4,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "167"
+    },
+    {
+        "card_name": "Blue Beetle",
+        "number": 53,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "253"
+    },
+    {
+        "card_name": "Batwoman",
+        "number": 102,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "354"
+    },
+    {
+        "card_name": "Artemis of Bana-Mighdall",
+        "number": 151,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "42"
+    },
+    {
+        "card_name": "Aqualad",
+        "number": 200,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "52"
+    },
+    {
+        "card_name": "Armory of the Amazons",
+        "number": 5,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "337"
+    },
+    {
+        "card_name": "Bottled World",
+        "number": 54,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "272"
+    },
+    {
+        "card_name": "Bizarro",
+        "number": 103,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "67"
+    },
+    {
+        "card_name": "Astro-Harness",
+        "number": 152,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "327"
+    },
+    {
+        "card_name": "Atom-Smasher",
+        "number": 201,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "339"
+    },
+    {
+        "card_name": "Booster Gold",
+        "number": 6,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "13"
+    },
+    {
+        "card_name": "Brainiac",
+        "number": 55,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "322"
+    },
+    {
+        "card_name": "Blackest Night",
+        "number": 104,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "187"
+    },
+    {
+        "card_name": "Azrael",
+        "number": 153,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "282"
+    },
+    {
+        "card_name": "Beast Boy",
+        "number": 202,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "232"
+    },
+    {
+        "card_name": "Bracelets of Submission",
+        "number": 7,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "325"
+    },
+    {
+        "card_name": "Bumblebee",
+        "number": 56,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "198"
+    },
+    {
+        "card_name": "Bruno Mannheim",
+        "number": 105,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "128"
+    },
+    {
+        "card_name": "Black Canary",
+        "number": 154,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "43"
+    },
+    {
+        "card_name": "Beast World",
+        "number": 203,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "205"
+    },
+    {
+        "card_name": "Captain Atom",
+        "number": 8,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "275"
+    },
+    {
+        "card_name": "Call the Metal Men",
+        "number": 57,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "271"
+    },
+    {
+        "card_name": "Catwoman",
+        "number": 106,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "199"
+    },
+    {
+        "card_name": "Blue Devil",
+        "number": 155,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "340"
+    },
+    {
+        "card_name": "A Better Tomorrow",
+        "number": 204,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "129"
+    },
+    {
+        "card_name": "Captain Marvel",
+        "number": 9,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "332"
+    },
+    {
+        "card_name": "Captain Cold",
+        "number": 58,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "151"
+    },
+    {
+        "card_name": "Chemo Unleashed",
+        "number": 107,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "263"
+    },
+    {
+        "card_name": "Canary Cry",
+        "number": 156,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "353"
+    },
+    {
+        "card_name": "Bounty of Atlantis",
+        "number": 205,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "334"
+    },
+    {
+        "card_name": "Cast Through Time",
+        "number": 10,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "345"
+    },
+    {
+        "card_name": "Circe",
+        "number": 59,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "338"
+    },
+    {
+        "card_name": "Darkseid",
+        "number": 108,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "318"
+    },
+    {
+        "card_name": "Crazy Jane",
+        "number": 157,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "208"
+    },
+    {
+        "card_name": "Break the Bat",
+        "number": 206,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "265"
+    },
+    {
+        "card_name": "Commisioner Gordon",
+        "number": 11,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "10"
+    },
+    {
+        "card_name": "Clayface",
+        "number": 60,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "258"
+    },
+    {
+        "card_name": "Deadman",
+        "number": 109,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "31"
+    },
+    {
+        "card_name": "Damage",
+        "number": 158,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "40"
+    },
+    {
+        "card_name": "Bronze Tiger",
+        "number": 207,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "259"
+    },
+    {
+        "card_name": "Day of Vengeance",
+        "number": 12,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "200"
+    },
+    {
+        "card_name": "Contingency Plan",
+        "number": 61,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "173"
+    },
+    {
+        "card_name": "Deadshot",
+        "number": 110,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "140"
+    },
+    {
+        "card_name": "Devouring Blaze",
+        "number": 159,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "302"
+    },
+    {
+        "card_name": "Call the Corps",
+        "number": 208,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "344"
+    },
+    {
+        "card_name": "Death of Superman",
+        "number": 13,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "17"
+    },
+    {
+        "card_name": "Crack the Case",
+        "number": 62,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "28"
+    },
+    {
+        "card_name": "Death in the Family",
+        "number": 111,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "142"
+    },
+    {
+        "card_name": "Final Detonation",
+        "number": 160,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "196"
+    },
+    {
+        "card_name": "Catman",
+        "number": 209,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "172"
+    },
+    {
+        "card_name": "Doctor Light",
+        "number": 14,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "255"
+    },
+    {
+        "card_name": "Cybernetic Rebuke",
+        "number": 63,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "348"
+    },
+    {
+        "card_name": "Deathstroke",
+        "number": 112,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "36"
+    },
+    {
+        "card_name": "Firestorm",
+        "number": 161,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "154"
+    },
+    {
+        "card_name": "Cave Carson",
+        "number": 210,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "53"
+    },
+    {
+        "card_name": "Doctor Mid-Nite",
+        "number": 15,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "9"
+    },
+    {
+        "card_name": "Cyborg",
+        "number": 64,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "163"
+    },
+    {
+        "card_name": "Eclipso",
+        "number": 113,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "273"
+    },
+    {
+        "card_name": "The Flash",
+        "number": 162,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "150"
+    },
+    {
+        "card_name": "Congorilla",
+        "number": 211,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "50"
+    },
+    {
+        "card_name": "Etta Candy",
+        "number": 16,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "175"
+    },
+    {
+        "card_name": "Detective Chimp",
+        "number": 65,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "169"
+    },
+    {
+        "card_name": "Final Crisis",
+        "number": 114,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "203"
+    },
+    {
+        "card_name": "Flash of Two Worlds",
+        "number": 163,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "143"
+    },
+    {
+        "card_name": "Connor Hawke",
+        "number": 212,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "217"
+    },
+    {
+        "card_name": "Grim Judgement",
+        "number": 17,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "269"
+    },
+    {
+        "card_name": "Dreamer",
+        "number": 66,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "22"
+    },
+    {
+        "card_name": "Fury of Apokolips",
+        "number": 115,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "312"
+    },
+    {
+        "card_name": "The Fun in Funeral",
+        "number": 164,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "156"
+    },
+    {
+        "card_name": "The Creeper",
+        "number": 213,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "233"
+    },
+    {
+        "card_name": "Hawkgirl",
+        "number": 18,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "351"
+    },
+    {
+        "card_name": "Fate's Will",
+        "number": 67,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "210"
+    },
+    {
+        "card_name": "General Zod",
+        "number": 116,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "37"
+    },
+    {
+        "card_name": "Harley Quinn",
+        "number": 165,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "152"
+    },
+    {
+        "card_name": "DC K.O.",
+        "number": 214,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "244"
+    },
+    {
+        "card_name": "Hawkman",
+        "number": 19,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "165"
+    },
+    {
+        "card_name": "Flashpoint",
+        "number": 68,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "201"
+    },
+    {
+        "card_name": "The Judas Contract",
+        "number": 117,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "202"
+    },
+    {
+        "card_name": "Heat Vision",
+        "number": 166,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "155"
+    },
+    {
+        "card_name": "Doomsday",
+        "number": 215,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "57"
+    },
+    {
+        "card_name": "Heroism's End",
+        "number": 20,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "314"
+    },
+    {
+        "card_name": "Galaxy",
+        "number": 69,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "21"
+    },
+    {
+        "card_name": "Katana",
+        "number": 118,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "125"
+    },
+    {
+        "card_name": "Hellblazer",
+        "number": 167,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "300"
+    },
+    {
+        "card_name": "Enchantress",
+        "number": 216,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "359"
+    },
+    {
+        "card_name": "Highfather",
+        "number": 21,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "316"
+    },
+    {
+        "card_name": "King Shark",
+        "number": 70,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "357"
+    },
+    {
+        "card_name": "Lady Shiva",
+        "number": 119,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "228"
+    },
+    {
+        "card_name": "Huntress",
+        "number": 168,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "283"
+    },
+    {
+        "card_name": "Feeding Frenzy",
+        "number": 217,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "342"
+    },
+    {
+        "card_name": "Hippolyta",
+        "number": 22,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "191"
+    },
+    {
+        "card_name": "Lilith Clay",
+        "number": 71,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "249"
+    },
+    {
+        "card_name": "Lazarus Rebirth",
+        "number": 120,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "180"
+    },
+    {
+        "card_name": "Impulse",
+        "number": 169,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "41"
+    },
+    {
+        "card_name": "The Forever People",
+        "number": 218,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "215"
+    },
+    {
+        "card_name": "Hourman",
+        "number": 23,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "8"
+    },
+    {
+        "card_name": "Madame Xanadu",
+        "number": 72,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "182"
+    },
+    {
+        "card_name": "Lobo",
+        "number": 121,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "146"
+    },
+    {
+        "card_name": "Jakeem Thunder",
+        "number": 170,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "136"
+    },
+    {
+        "card_name": "Ganthet",
+        "number": 219,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "323"
+    },
+    {
+        "card_name": "The Invisible Jet",
+        "number": 24,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "18"
+    },
+    {
+        "card_name": "Man-Bat",
+        "number": 73,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "329"
+    },
+    {
+        "card_name": "Lobo's Spacehog",
+        "number": 122,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "311"
+    },
+    {
+        "card_name": "Jay Garrick",
+        "number": 171,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "164"
+    },
+    {
+        "card_name": "Geo-Force",
+        "number": 220,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "218"
+    },
+    {
+        "card_name": "Jericho",
+        "number": 25,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "336"
+    },
+    {
+        "card_name": "Martian Manhunter",
+        "number": 74,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "24"
+    },
+    {
+        "card_name": "Maxwell Lord",
+        "number": 123,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "225"
+    },
+    {
+        "card_name": "Jesse Quick",
+        "number": 172,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "309"
+    },
+    {
+        "card_name": "Giganta",
+        "number": 221,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "216"
+    },
+    {
+        "card_name": "Jimmy Olsen",
+        "number": 26,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "166"
+    },
+    {
+        "card_name": "Metron",
+        "number": 75,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "321"
+    },
+    {
+        "card_name": "Mongul",
+        "number": 124,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "346"
+    },
+    {
+        "card_name": "John Constantine",
+        "number": 173,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "341"
+    },
+    {
+        "card_name": "Gorilla Grodd",
+        "number": 222,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "214"
+    },
+    {
+        "card_name": "Krypto the Super-Dog",
+        "number": 27,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "123"
+    },
+    {
+        "card_name": "Miss Martian",
+        "number": 76,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "185"
+    },
+    {
+        "card_name": "Neron",
+        "number": 125,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "38"
+    },
+    {
+        "card_name": "Kid Flash",
+        "number": 174,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "39"
+    },
+    {
+        "card_name": "Grace Choi",
+        "number": 223,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "51"
+    },
+    {
+        "card_name": "The Lasso of Truth",
+        "number": 28,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "287"
+    },
+    {
+        "card_name": "Mr Terrific",
+        "number": 77,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "25"
+    },
+    {
+        "card_name": "Nightshade",
+        "number": 126,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "231"
+    },
+    {
+        "card_name": "Lightray",
+        "number": 175,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "299"
+    },
+    {
+        "card_name": "Green Arrow",
+        "number": 224,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "54"
+    },
+    {
+        "card_name": "Lois Lane",
+        "number": 29,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "4"
+    },
+    {
+        "card_name": "Mr. Freeze",
+        "number": 78,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "288"
+    },
+    {
+        "card_name": "Obsidian",
+        "number": 127,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "274"
+    },
+    {
+        "card_name": "Livewire",
+        "number": 176,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "68"
+    },
+    {
+        "card_name": "Green Lantern",
+        "number": 225,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "72"
+    },
+    {
+        "card_name": "Natasha Irons",
+        "number": 30,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "190"
+    },
+    {
+        "card_name": "Nightmaster",
+        "number": 79,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "183"
+    },
+    {
+        "card_name": "The Penguin",
+        "number": 128,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "34"
+    },
+    {
+        "card_name": "Living Lightning",
+        "number": 177,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "333"
+    },
+    {
+        "card_name": "Green Lantern Ring",
+        "number": 226,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "133"
+    },
+    {
+        "card_name": "Peacemaker",
+        "number": 31,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "350"
+    },
+    {
+        "card_name": "Nightwing",
+        "number": 80,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "69"
+    },
+    {
+        "card_name": "The Phantom Stranger",
+        "number": 129,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "320"
+    },
+    {
+        "card_name": "Mary Marvel",
+        "number": 178,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "331"
+    },
+    {
+        "card_name": "Guy Gardener",
+        "number": 227,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "298"
+    },
+    {
+        "card_name": "Phantom Zone Projector",
+        "number": 32,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "270"
+    },
+    {
+        "card_name": "Oracle",
+        "number": 81,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "356"
+    },
+    {
+        "card_name": "Purpose From Beyond",
+        "number": 130,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "349"
+    },
+    {
+        "card_name": "Max Mercury",
+        "number": 179,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "278"
+    },
+    {
+        "card_name": "Halo",
+        "number": 228,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "49"
+    },
+    {
+        "card_name": "Power Girl",
+        "number": 33,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "330"
+    },
+    {
+        "card_name": "Oracle's Sight",
+        "number": 82,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "29"
+    },
+    {
+        "card_name": "Ravager",
+        "number": 131,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "32"
+    },
+    {
+        "card_name": "Milk Wars",
+        "number": 180,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "204"
+    },
+    {
+        "card_name": "Ivy's Bloom",
+        "number": 229,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "286"
+    },
+    {
+        "card_name": "Queen Nubia of Themiscyra",
+        "number": 34,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "14"
+    },
+    {
+        "card_name": "Peer Through The Multiverse",
+        "number": 83,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "30"
+    },
+    {
+        "card_name": "Raven",
+        "number": 132,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "257"
+    },
+    {
+        "card_name": "Mister Miracle",
+        "number": 181,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "277"
+    },
+    {
+        "card_name": "Jade",
+        "number": 230,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "181"
+    },
+    {
+        "card_name": "Rick Flag Jr.",
+        "number": 35,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "2"
+    },
+    {
+        "card_name": "Pirtnac",
+        "number": 84,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "27"
+    },
+    {
+        "card_name": "Red Hood",
+        "number": 133,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "137"
+    },
+    {
+        "card_name": "Mister Mxyzptlk",
+        "number": 182,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "319"
+    },
+    {
+        "card_name": "Jessica Cruz",
+        "number": 231,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "279"
+    },
+    {
+        "card_name": "S.T.R.I.P.E.",
+        "number": 36,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "261"
+    },
+    {
+        "card_name": "Plastic Man",
+        "number": 85,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "276"
+    },
+    {
+        "card_name": "Resurrection Man",
+        "number": 134,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "126"
+    },
+    {
+        "card_name": "The Ray",
+        "number": 183,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "149"
+    },
+    {
+        "card_name": "Killer Croc",
+        "number": 232,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "168"
+    },
+    {
+        "card_name": "The Spear of Destiny",
+        "number": 37,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "291"
+    },
+    {
+        "card_name": "Power of the Worlogog",
+        "number": 86,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "315"
+    },
+    {
+        "card_name": "Robin",
+        "number": 135,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "139"
+    },
+    {
+        "card_name": "Red Arrow",
+        "number": 184,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "157"
+    },
+    {
+        "card_name": "Kilowog",
+        "number": 233,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "132"
+    },
+    {
+        "card_name": "Stargirl",
+        "number": 38,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "5"
+    },
+    {
+        "card_name": "The Question",
+        "number": 87,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "222"
+    },
+    {
+        "card_name": "Sandman",
+        "number": 136,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "160"
+    },
+    {
+        "card_name": "Red Tornado",
+        "number": 185,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "195"
+    },
+    {
+        "card_name": "Kyle Rayner",
+        "number": 234,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "347"
+    },
+    {
+        "card_name": "Steel",
+        "number": 39,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "12"
+    },
+    {
+        "card_name": "Red Robin",
+        "number": 88,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "145"
+    },
+    {
+        "card_name": "Scarecrow",
+        "number": 137,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "226"
+    },
+    {
+        "card_name": "Reverse Flash",
+        "number": 186,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "352"
+    },
+    {
+        "card_name": "Mera",
+        "number": 235,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "55"
+    },
+    {
+        "card_name": "Steve Trevor",
+        "number": 40,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "188"
+    },
+    {
+        "card_name": "The Riddler",
+        "number": 89,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "209"
+    },
+    {
+        "card_name": "Signal",
+        "number": 138,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "229"
+    },
+    {
+        "card_name": "Robotman",
+        "number": 187,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "70"
+    },
+    {
+        "card_name": "Monkey Prince",
+        "number": 236,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "47"
+    },
+    {
+        "card_name": "Super Son",
+        "number": 41,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "6"
+    },
+    {
+        "card_name": "Rip Hunter",
+        "number": 90,
+        "shape": "adventure",
+        "set": "DC3",
+        "position": "23"
+    },
+    {
+        "card_name": "Sinestro",
+        "number": 139,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "355"
+    },
+    {
+        "card_name": "Sea Salvage",
+        "number": 188,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "262"
+    },
+    {
+        "card_name": "Monsieur Mallah",
+        "number": 237,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "48"
+    },
+    {
+        "card_name": "Superboy",
+        "number": 42,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "11"
+    },
+    {
+        "card_name": "Spoiler",
+        "number": 91,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "176"
+    },
+    {
+        "card_name": "Solomon Grundy",
+        "number": 140,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "138"
+    },
+    {
+        "card_name": "Speed Force Storm",
+        "number": 189,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "158"
+    },
+    {
+        "card_name": "Poison Ivy",
+        "number": 238,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "56"
+    },
+    {
+        "card_name": "Superboy-Prime",
+        "number": 43,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "16"
+    },
+    {
+        "card_name": "Strange Adventures",
+        "number": 92,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "26"
+    },
+    {
+        "card_name": "Talia al Ghul",
+        "number": 141,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "33"
+    },
+    {
+        "card_name": "Speedy",
+        "number": 190,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "254"
+    },
+    {
+        "card_name": "Power of the Green",
+        "number": 239,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "285"
+    },
+    {
+        "card_name": "Superman",
+        "number": 44,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "15"
+    },
+    {
+        "card_name": "Ted Kord",
+        "number": 93,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "19"
+    },
+    {
+        "card_name": "Teachings of the Crime Bible",
+        "number": 142,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "284"
+    },
+    {
+        "card_name": "Star Sapphire",
+        "number": 191,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "161"
+    },
+    {
+        "card_name": "Richard Dragon",
+        "number": 240,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "256"
+    },
+    {
+        "card_name": "Triumphant Rebirth",
+        "number": 45,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "292"
+    },
+    {
+        "card_name": "Telepathic Interference",
+        "number": 94,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "335"
+    },
+    {
+        "card_name": "Time Runs Out",
+        "number": 143,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "194"
+    },
+    {
+        "card_name": "Static",
+        "number": 192,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "135"
+    },
+    {
+        "card_name": "Simon Baz",
+        "number": 241,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "46"
+    },
+    {
+        "card_name": "Troia",
+        "number": 46,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "7"
+    },
+    {
+        "card_name": "Tempest",
+        "number": 95,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "295"
+    },
+    {
+        "card_name": "Trigon",
+        "number": 144,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "264"
+    },
+    {
+        "card_name": "Super Speed Strikes",
+        "number": 193,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "301"
+    },
+    {
+        "card_name": "Sojourner Mullein",
+        "number": 242,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "296"
+    },
+    {
+        "card_name": "Warlord",
+        "number": 47,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "189"
+    },
+    {
+        "card_name": "Trident of Neptune",
+        "number": 96,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "328"
+    },
+    {
+        "card_name": "Two-Face",
+        "number": 145,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "213"
+    },
+    {
+        "card_name": "Thunder and Lightning",
+        "number": 194,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "179"
+    },
+    {
+        "card_name": "Sprout's Renewal",
+        "number": 243,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "343"
+    },
+    {
+        "card_name": "The Wizard Shazam",
+        "number": 48,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "317"
+    },
+    {
+        "card_name": "Ultra-Humanite",
+        "number": 97,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "224"
+    },
+    {
+        "card_name": "Utter Betrayal",
+        "number": 146,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "211"
+    },
+    {
+        "card_name": "Trick Arrows",
+        "number": 195,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "230"
+    },
+    {
+        "card_name": "Swamp Thing",
+        "number": 244,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "324"
+    },
+    {
+        "card_name": "Wonder Girl",
+        "number": 49,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "3"
+    },
+    {
+        "card_name": "Wonder Twins",
+        "number": 98,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "223"
+    },
+    {
+        "card_name": "Veronica Cale",
+        "number": 147,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "35"
+    },
+    {
+        "card_name": "Trident of Lucifer",
+        "number": 196,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "326"
+    },
+    {
+        "card_name": "Terra",
+        "number": 245,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "45"
+    },
+    {
+        "card_name": "Xanshi Falls",
+        "number": 50,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "313"
+    },
+    {
+        "card_name": "Zero Hour: Crisis in Time!",
+        "number": 99,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "192"
+    },
+    {
+        "card_name": "Wildcat",
+        "number": 148,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "294"
+    },
+    {
+        "card_name": "Wally West",
+        "number": 197,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "193"
+    },
+    {
+        "card_name": "Vandal Savage",
+        "number": 246,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "358"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Black Lightning",
+        "number": 254,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "177"
+    },
+    {
+        "card_name": "Absolute Power",
+        "number": 247,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "246"
+    },
+    {
+        "card_name": "Black Manta",
+        "number": 255,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "62"
+    },
+    {
+        "card_name": "Big Barda",
+        "number": 252,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "60"
+    },
+    {
+        "card_name": "Elasti-Woman",
+        "number": 260,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "63"
+    },
+    {
+        "card_name": "Doctor Fate",
+        "number": 259,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "240"
+    },
+    {
+        "card_name": "Amanda Waller",
+        "number": 248,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "221"
+    },
+    {
+        "card_name": "Etrigan the Demon",
+        "number": 261,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "239"
+    },
+    {
+        "card_name": "Cheetah",
+        "number": 257,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "184"
+    },
+    {
+        "card_name": "John Stewart",
+        "number": 267,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "207"
+    },
+    {
+        "card_name": "Supergirl",
+        "number": 281,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "147"
+    },
+    {
+        "card_name": "Batman",
+        "number": 251,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "0"
+    },
+    {
+        "card_name": "Infinite Crisis",
+        "number": 265,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "243"
+    },
+    {
+        "card_name": "Genesis",
+        "number": 263,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "247"
+    },
+    {
+        "card_name": "Secret Origins",
+        "number": 276,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "131"
+    },
+    {
+        "card_name": "We Are Robin",
+        "number": 284,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "251"
+    },
+    {
+        "card_name": "Lex Luthor",
+        "number": 269,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "238"
+    },
+    {
+        "card_name": "The Joker",
+        "number": 268,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "171"
+    },
+    {
+        "card_name": "Metamorpho",
+        "number": 270,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "235"
+    },
+    {
+        "card_name": "Vixen",
+        "number": 283,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "130"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Black Adam",
+        "number": 253,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "206"
+    },
+    {
+        "card_name": "Crisis on Infinite Earths",
+        "number": 258,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "242"
+    },
+    {
+        "card_name": "Bane",
+        "number": 250,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "234"
+    },
+    {
+        "card_name": "Hawk and Dove",
+        "number": 264,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "236"
+    },
+    {
+        "card_name": "Aquaman",
+        "number": 249,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "65"
+    },
+    {
+        "card_name": "Night of the Owls",
+        "number": 271,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "245"
+    },
+    {
+        "card_name": "Fire and Ice",
+        "number": 262,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "61"
+    },
+    {
+        "card_name": "Ocean Master",
+        "number": 272,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "66"
+    },
+    {
+        "card_name": "Orion",
+        "number": 273,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "153"
+    },
+    {
+        "card_name": "Challengers of the Unknown",
+        "number": 256,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "148"
+    },
+    {
+        "card_name": "Rebis",
+        "number": 275,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "127"
+    },
+    {
+        "card_name": "Starfire",
+        "number": 279,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "220"
+    },
+    {
+        "card_name": "Ra's al Ghul",
+        "number": 274,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "186"
+    },
+    {
+        "card_name": "Trial of the Amazons",
+        "number": 282,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "248"
+    },
+    {
+        "card_name": "Invasion!",
+        "number": 266,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "252"
+    },
+    {
+        "card_name": "The Spectre",
+        "number": 278,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "241"
+    },
+    {
+        "card_name": "Zatanna",
+        "number": 286,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "237"
+    },
+    {
+        "card_name": "Sinestro Corps War",
+        "number": 277,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "250"
+    },
+    {
+        "card_name": "Wonder Woman",
+        "number": 285,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "64"
+    },
+    {
+        "card_name": "Starro the Star-Conqueror",
+        "number": 280,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "290"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Mr. Nobody",
+        "number": 1,
+        "shape": "planeswalker",
+        "set": "DC3",
+        "position": "307"
+    },
+    {
+        "card_name": "Amazo",
+        "number": 287,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "227"
+    },
+    {
+        "card_name": "The Brain",
+        "number": 288,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "59"
+    },
+    {
+        "card_name": "Brainiac's Skull-Ship",
+        "number": 289,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "260"
+    },
+    {
+        "card_name": "Brother Eye",
+        "number": 290,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "170"
+    },
+    {
+        "card_name": "Cosmic Staff",
+        "number": 291,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "310"
+    },
+    {
+        "card_name": "Cyborg Superman",
+        "number": 292,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "144"
+    },
+    {
+        "card_name": "Dial H for Hero",
+        "number": 293,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "281"
+    },
+    {
+        "card_name": "G.I. Robot",
+        "number": 294,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "58"
+    },
+    {
+        "card_name": "Krona's Power Gauntlet",
+        "number": 295,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "308"
+    },
+    {
+        "card_name": "Luthor's Warsuit",
+        "number": 296,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "293"
+    },
+    {
+        "card_name": "Metallo",
+        "number": 297,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "141"
+    },
+    {
+        "card_name": "Mother Box",
+        "number": 298,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "174"
+    },
+    {
+        "card_name": "The OMAC Project",
+        "number": 299,
+        "shape": "saga",
+        "set": "DC3",
+        "position": "306"
+    },
+    {
+        "card_name": "The Orb of Ra",
+        "number": 300,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "303"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Themiscyra",
+        "number": 353,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "266"
+    },
+    {
+        "card_name": "Atlantis",
+        "number": 306,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "71"
+    },
+    {
+        "card_name": "Arkham Asylum",
+        "number": 304,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "267"
+    },
+    {
+        "card_name": "The Flash Museum",
+        "number": 317,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "268"
+    },
+    {
+        "card_name": "Mogo",
+        "number": 336,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "197"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "The Fortress of Solitude",
+        "number": 318,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "113"
+    },
+    {
+        "card_name": "The Batcave",
+        "number": 307,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "114"
+    },
+    {
+        "card_name": "Apokolips",
+        "number": 303,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "85"
+    },
+    {
+        "card_name": "The Arrowcave",
+        "number": 305,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "106"
+    },
+    {
+        "card_name": "Central City",
+        "number": 310,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "97"
+    },
+    {
+        "card_name": "Metropolis",
+        "number": 335,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "94"
+    },
+    {
+        "card_name": "Gotham City",
+        "number": 322,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "93"
+    },
+    {
+        "card_name": "Blackgate Penitentiary",
+        "number": 309,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "105"
+    },
+    {
+        "card_name": "Gateway City",
+        "number": 319,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "96"
+    },
+    {
+        "card_name": "Happy Harbour",
+        "number": 324,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "112"
+    },
+    {
+        "card_name": "Rann",
+        "number": 343,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "86"
+    },
+    {
+        "card_name": "House of Mystery",
+        "number": 326,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "104"
+    },
+    {
+        "card_name": "Hall of Doom",
+        "number": 323,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "116"
+    },
+    {
+        "card_name": "Gorilla City",
+        "number": 321,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "115"
+    },
+    {
+        "card_name": "Kandor",
+        "number": 331,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "117"
+    },
+    {
+        "card_name": "The Rock of Eternity",
+        "number": 344,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "103"
+    },
+    {
+        "card_name": "Qward",
+        "number": 342,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "84"
+    },
+    {
+        "card_name": "Hell",
+        "number": 325,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "95"
+    },
+    {
+        "card_name": "Warriors Bar",
+        "number": 357,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "111"
+    },
+    {
+        "card_name": "New Genesis",
+        "number": 338,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "87"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Belle Reve",
+        "number": 308,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "118"
+    },
+    {
+        "card_name": "The Daily Planet",
+        "number": 313,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "108"
+    },
+    {
+        "card_name": "A.C.E. Chemical",
+        "number": 301,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "109"
+    },
+    {
+        "card_name": "Fawcett City",
+        "number": 316,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "101"
+    },
+    {
+        "card_name": "Coast City",
+        "number": 311,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "102"
+    },
+    {
+        "card_name": "House of Secrets",
+        "number": 327,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "107"
+    },
+    {
+        "card_name": "Keystone City",
+        "number": 332,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "99"
+    },
+    {
+        "card_name": "Czarnia",
+        "number": 312,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "90"
+    },
+    {
+        "card_name": "Justice League Satellite",
+        "number": 330,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "121"
+    },
+    {
+        "card_name": "Dinosaur Island",
+        "number": 315,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "83"
+    },
+    {
+        "card_name": "Shiruta",
+        "number": 346,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "98"
+    },
+    {
+        "card_name": "Krypton",
+        "number": 333,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "89"
+    },
+    {
+        "card_name": "Hub City",
+        "number": 328,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "100"
+    },
+    {
+        "card_name": "Thanagar",
+        "number": 352,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "91"
+    },
+    {
+        "card_name": "Oa",
+        "number": 339,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "92"
+    },
+    {
+        "card_name": "Warworld",
+        "number": 358,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "88"
+    },
+    {
+        "card_name": "The Oblivion Bar",
+        "number": 340,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "119"
+    },
+    {
+        "card_name": "Slaughter Swamp",
+        "number": 348,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "120"
+    },
+    {
+        "card_name": "Titans Tower",
+        "number": 354,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "110"
+    },
+    {
+        "card_name": "Project Cadmus",
+        "number": 341,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "122"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Amnesty Bay",
+        "number": 302,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "81"
+    },
+    {
+        "card_name": "Danny the Street",
+        "number": 314,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "219"
+    },
+    {
+        "card_name": "Gemworld",
+        "number": 320,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "79"
+    },
+    {
+        "card_name": "The Iceberg Lounge",
+        "number": 329,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "78"
+    },
+    {
+        "card_name": "LexCorp",
+        "number": 334,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "74"
+    },
+    {
+        "card_name": "Nanda Parbat",
+        "number": 337,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "82"
+    },
+    {
+        "card_name": "S.T.A.R. Labs",
+        "number": 345,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "162"
+    },
+    {
+        "card_name": "Skartaris",
+        "number": 347,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "80"
+    },
+    {
+        "card_name": "Smallville",
+        "number": 349,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "77"
+    },
+    {
+        "card_name": "The Source Wall",
+        "number": 350,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "289"
+    },
+    {
+        "card_name": "Star City",
+        "number": 351,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "76"
+    },
+    {
+        "card_name": "The Tower of Fate",
+        "number": 355,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "73"
+    },
+    {
+        "card_name": "Vanishing Point",
+        "number": 356,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "304"
+    },
+    {
+        "card_name": "The Watchtower",
+        "number": 359,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "305"
+    },
+    {
+        "card_name": "Zandia",
+        "number": 360,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "75"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

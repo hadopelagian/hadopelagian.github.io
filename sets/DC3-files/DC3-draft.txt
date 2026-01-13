@@ -1,0 +1,3965 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Batman",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/0.png"
+			}
+		},
+		{
+			"name": "Alfred Pennyworth",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/1.png"
+			}
+		},
+		{
+			"name": "Rick Flag Jr.",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/2.png"
+			}
+		},
+		{
+			"name": "Wonder Girl",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/3.png"
+			}
+		},
+		{
+			"name": "Lois Lane",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/4.png"
+			}
+		},
+		{
+			"name": "Stargirl",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/5.png"
+			}
+		},
+		{
+			"name": "Super Son",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Alien",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/6.png"
+			}
+		},
+		{
+			"name": "Troia",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Demigod Warrior",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/7.png"
+			}
+		},
+		{
+			"name": "Hourman",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/8.png"
+			}
+		},
+		{
+			"name": "Doctor Mid-Nite",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Doctor",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/9.png"
+			}
+		},
+		{
+			"name": "Commisioner Gordon",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/10.png"
+			}
+		},
+		{
+			"name": "Superboy",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Alien",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/11.png"
+			}
+		},
+		{
+			"name": "Steel",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/12.png"
+			}
+		},
+		{
+			"name": "Booster Gold",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/13.png"
+			}
+		},
+		{
+			"name": "Queen Nubia of Themiscyra",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Demigod Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/14.png"
+			}
+		},
+		{
+			"name": "Superman",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/15.png"
+			}
+		},
+		{
+			"name": "Superboy-Prime",
+			"rarity": "special",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Planeswalker — Kal-El",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/16.png"
+			}
+		},
+		{
+			"name": "Death of Superman",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/17.png"
+			}
+		},
+		{
+			"name": "The Invisible Jet",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/18.png"
+			}
+		},
+		{
+			"name": "Ted Kord",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/19.png"
+			}
+		},
+		{
+			"name": "The Atom",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/20.png"
+			}
+		},
+		{
+			"name": "Galaxy",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Alien Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/21.png"
+			}
+		},
+		{
+			"name": "Dreamer",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Alien Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/22.png"
+			}
+		},
+		{
+			"name": "Rip Hunter",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/23.png"
+			}
+		},
+		{
+			"name": "Martian Manhunter",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Alien Shapeshifter",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/24.png"
+			}
+		},
+		{
+			"name": "Mr Terrific",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/25.png"
+			}
+		},
+		{
+			"name": "Strange Adventures",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/26.png"
+			}
+		},
+		{
+			"name": "Pirtnac",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/27.png"
+			}
+		},
+		{
+			"name": "Crack the Case",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/28.png"
+			}
+		},
+		{
+			"name": "Oracle's Sight",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/29.png"
+			}
+		},
+		{
+			"name": "Peer Through The Multiverse",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/30.png"
+			}
+		},
+		{
+			"name": "Deadman",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Spirit Performer",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/31.png"
+			}
+		},
+		{
+			"name": "Ravager",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/32.png"
+			}
+		},
+		{
+			"name": "Talia al Ghul",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/33.png"
+			}
+		},
+		{
+			"name": "The Penguin",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/34.png"
+			}
+		},
+		{
+			"name": "Veronica Cale",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/35.png"
+			}
+		},
+		{
+			"name": "Deathstroke",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/36.png"
+			}
+		},
+		{
+			"name": "General Zod",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Kryptonian Soldier",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/37.png"
+			}
+		},
+		{
+			"name": "Neron",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Demon",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/38.png"
+			}
+		},
+		{
+			"name": "Kid Flash",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/39.png"
+			}
+		},
+		{
+			"name": "Damage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/40.png"
+			}
+		},
+		{
+			"name": "Impulse",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/41.png"
+			}
+		},
+		{
+			"name": "Artemis of Bana-Mighdall",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Demigod Warrior",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/42.png"
+			}
+		},
+		{
+			"name": "Black Canary",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/43.png"
+			}
+		},
+		{
+			"name": "Ares",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Planeswalker — Ares",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/44.png"
+			}
+		},
+		{
+			"name": "Terra",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/45.png"
+			}
+		},
+		{
+			"name": "Simon Baz",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/46.png"
+			}
+		},
+		{
+			"name": "Monkey Prince",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Ape Noble",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/47.png"
+			}
+		},
+		{
+			"name": "Monsieur Mallah",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Ape Soldier",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/48.png"
+			}
+		},
+		{
+			"name": "Halo",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/49.png"
+			}
+		},
+		{
+			"name": "Congorilla",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Ape Warrior",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/50.png"
+			}
+		},
+		{
+			"name": "Grace Choi",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Demigod Warrior",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/51.png"
+			}
+		},
+		{
+			"name": "Aqualad",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Merfolk Warrior",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/52.png"
+			}
+		},
+		{
+			"name": "Cave Carson",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/53.png"
+			}
+		},
+		{
+			"name": "Green Arrow",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/54.png"
+			}
+		},
+		{
+			"name": "Mera",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/55.png"
+			}
+		},
+		{
+			"name": "Poison Ivy",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Plant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/56.png"
+			}
+		},
+		{
+			"name": "Doomsday",
+			"rarity": "special",
+			"mana_cost": "{12}{G}{G}{G}",
+			"type": "Legendary Creature — Mutant Horror",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/57.png"
+			}
+		},
+		{
+			"name": "G.I. Robot",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/58.png"
+			}
+		},
+		{
+			"name": "The Brain",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/59.png"
+			}
+		},
+		{
+			"name": "Big Barda",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Creature — God Warrior",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/60.png"
+			}
+		},
+		{
+			"name": "Fire and Ice",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/61.png"
+			}
+		},
+		{
+			"name": "Black Manta",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/62.png"
+			}
+		},
+		{
+			"name": "Elasti-Woman",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Mutant Warrior",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/63.png"
+			}
+		},
+		{
+			"name": "Wonder Woman",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Demigod Warrior",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/64.png"
+			}
+		},
+		{
+			"name": "Aquaman",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/65.png"
+			}
+		},
+		{
+			"name": "Ocean Master",
+			"rarity": "special",
+			"mana_cost": "{6}{B}{G}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/66.png"
+			}
+		},
+		{
+			"name": "Bizarro",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Not Alien",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/67.png"
+			}
+		},
+		{
+			"name": "Livewire",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/68.png"
+			}
+		},
+		{
+			"name": "Nightwing",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/69.png"
+			}
+		},
+		{
+			"name": "Robotman",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact Creature — Cyborg",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/70.png"
+			}
+		},
+		{
+			"name": "Atlantis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/71.png"
+			}
+		},
+		{
+			"name": "Green Lantern",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/72.png"
+			}
+		},
+		{
+			"name": "The Tower of Fate",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/73.png"
+			}
+		},
+		{
+			"name": "LexCorp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/74.png"
+			}
+		},
+		{
+			"name": "Zandia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/75.png"
+			}
+		},
+		{
+			"name": "Star City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/76.png"
+			}
+		},
+		{
+			"name": "Smallville",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/77.png"
+			}
+		},
+		{
+			"name": "The Iceberg Lounge",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/78.png"
+			}
+		},
+		{
+			"name": "Gemworld",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/79.png"
+			}
+		},
+		{
+			"name": "Skartaris",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/80.png"
+			}
+		},
+		{
+			"name": "Amnesty Bay",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/81.png"
+			}
+		},
+		{
+			"name": "Nanda Parbat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/82.png"
+			}
+		},
+		{
+			"name": "Dinosaur Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/83.png"
+			}
+		},
+		{
+			"name": "Qward",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/84.png"
+			}
+		},
+		{
+			"name": "Apokolips",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/85.png"
+			}
+		},
+		{
+			"name": "Rann",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/86.png"
+			}
+		},
+		{
+			"name": "New Genesis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/87.png"
+			}
+		},
+		{
+			"name": "Warworld",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/88.png"
+			}
+		},
+		{
+			"name": "Krypton",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/89.png"
+			}
+		},
+		{
+			"name": "Czarnia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/90.png"
+			}
+		},
+		{
+			"name": "Thanagar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/91.png"
+			}
+		},
+		{
+			"name": "Oa",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/92.png"
+			}
+		},
+		{
+			"name": "Gotham City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/93.png"
+			}
+		},
+		{
+			"name": "Metropolis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/94.png"
+			}
+		},
+		{
+			"name": "Hell",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/95.png"
+			}
+		},
+		{
+			"name": "Gateway City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/96.png"
+			}
+		},
+		{
+			"name": "Central City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/97.png"
+			}
+		},
+		{
+			"name": "Shiruta",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/98.png"
+			}
+		},
+		{
+			"name": "Keystone City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/99.png"
+			}
+		},
+		{
+			"name": "Hub City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/100.png"
+			}
+		},
+		{
+			"name": "Fawcett City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/101.png"
+			}
+		},
+		{
+			"name": "Coast City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/102.png"
+			}
+		},
+		{
+			"name": "The Rock of Eternity",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/103.png"
+			}
+		},
+		{
+			"name": "House of Mystery",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/104.png"
+			}
+		},
+		{
+			"name": "Blackgate Penitentiary",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/105.png"
+			}
+		},
+		{
+			"name": "The Arrowcave",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/106.png"
+			}
+		},
+		{
+			"name": "House of Secrets",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/107.png"
+			}
+		},
+		{
+			"name": "The Daily Planet",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/108.png"
+			}
+		},
+		{
+			"name": "A.C.E. Chemical",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/109.png"
+			}
+		},
+		{
+			"name": "Titans Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/110.png"
+			}
+		},
+		{
+			"name": "Warriors Bar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/111.png"
+			}
+		},
+		{
+			"name": "Happy Harbour",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/112.png"
+			}
+		},
+		{
+			"name": "The Fortress of Solitude",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/113.png"
+			}
+		},
+		{
+			"name": "The Batcave",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/114.png"
+			}
+		},
+		{
+			"name": "Gorilla City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/115.png"
+			}
+		},
+		{
+			"name": "Hall of Doom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/116.png"
+			}
+		},
+		{
+			"name": "Kandor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/117.png"
+			}
+		},
+		{
+			"name": "Belle Reve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/118.png"
+			}
+		},
+		{
+			"name": "The Oblivion Bar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/119.png"
+			}
+		},
+		{
+			"name": "Slaughter Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/120.png"
+			}
+		},
+		{
+			"name": "Justice League Satellite",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/121.png"
+			}
+		},
+		{
+			"name": "Project Cadmus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/122.png"
+			}
+		},
+		{
+			"name": "Krypto the Super-Dog",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Alien Dog",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/123.png"
+			}
+		},
+		{
+			"name": "Adam Strange",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/124.png"
+			}
+		},
+		{
+			"name": "Katana",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/125.png"
+			}
+		},
+		{
+			"name": "Resurrection Man",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/126.png"
+			}
+		},
+		{
+			"name": "Rebis",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Spirit",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/127.png"
+			}
+		},
+		{
+			"name": "Bruno Mannheim",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/128.png"
+			}
+		},
+		{
+			"name": "A Better Tomorrow",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/129.png"
+			}
+		},
+		{
+			"name": "Vixen",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/130.png"
+			}
+		},
+		{
+			"name": "Secret Origins",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/131.png"
+			}
+		},
+		{
+			"name": "Kilowog",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Legendary Creature — Alien Soldier",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/132.png"
+			}
+		},
+		{
+			"name": "Green Lantern Ring",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/133.png"
+			}
+		},
+		{
+			"name": "The Batmobile",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/134.png"
+			}
+		},
+		{
+			"name": "Static",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/135.png"
+			}
+		},
+		{
+			"name": "Jakeem Thunder",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/136.png"
+			}
+		},
+		{
+			"name": "Red Hood",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/137.png"
+			}
+		},
+		{
+			"name": "Solomon Grundy",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/138.png"
+			}
+		},
+		{
+			"name": "Robin",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/139.png"
+			}
+		},
+		{
+			"name": "Deadshot",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/140.png"
+			}
+		},
+		{
+			"name": "Metallo",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Cyborg",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/141.png"
+			}
+		},
+		{
+			"name": "Death in the Family",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/142.png"
+			}
+		},
+		{
+			"name": "Flash of Two Worlds",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/143.png"
+			}
+		},
+		{
+			"name": "Cyborg Superman",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — Cyborg",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/144.png"
+			}
+		},
+		{
+			"name": "Red Robin",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/145.png"
+			}
+		},
+		{
+			"name": "Lobo",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Alien Mercenary",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/146.png"
+			}
+		},
+		{
+			"name": "Supergirl",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/147.png"
+			}
+		},
+		{
+			"name": "Challengers of the Unknown",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/148.png"
+			}
+		},
+		{
+			"name": "The Ray",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/149.png"
+			}
+		},
+		{
+			"name": "The Flash",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/150.png"
+			}
+		},
+		{
+			"name": "Captain Cold",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/151.png"
+			}
+		},
+		{
+			"name": "Harley Quinn",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Clown",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/152.png"
+			}
+		},
+		{
+			"name": "Orion",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — God Warrior",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/153.png"
+			}
+		},
+		{
+			"name": "Firestorm",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/154.png"
+			}
+		},
+		{
+			"name": "Heat Vision",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/155.png"
+			}
+		},
+		{
+			"name": "The Fun in Funeral",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/156.png"
+			}
+		},
+		{
+			"name": "Red Arrow",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/157.png"
+			}
+		},
+		{
+			"name": "Speed Force Storm",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/158.png"
+			}
+		},
+		{
+			"name": "Batgirl",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/159.png"
+			}
+		},
+		{
+			"name": "Sandman",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/160.png"
+			}
+		},
+		{
+			"name": "Star Sapphire",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/161.png"
+			}
+		},
+		{
+			"name": "S.T.A.R. Labs",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/162.png"
+			}
+		},
+		{
+			"name": "Cyborg",
+			"rarity": "special",
+			"mana_cost": "{5}{U}",
+			"type": "Legendary Artifact Creature — Cyborg",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/163.png"
+			}
+		},
+		{
+			"name": "Jay Garrick",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/164.png"
+			}
+		},
+		{
+			"name": "Hawkman",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Alien Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/165.png"
+			}
+		},
+		{
+			"name": "Jimmy Olsen",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/166.png"
+			}
+		},
+		{
+			"name": "Amethyst",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/167.png"
+			}
+		},
+		{
+			"name": "Killer Croc",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/168.png"
+			}
+		},
+		{
+			"name": "Detective Chimp",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Ape Detective",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/169.png"
+			}
+		},
+		{
+			"name": "Brother Eye",
+			"rarity": "special",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/170.png"
+			}
+		},
+		{
+			"name": "The Joker",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Human Clown",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/171.png"
+			}
+		},
+		{
+			"name": "Catman",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/172.png"
+			}
+		},
+		{
+			"name": "Contingency Plan",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/173.png"
+			}
+		},
+		{
+			"name": "Mother Box",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/174.png"
+			}
+		},
+		{
+			"name": "Etta Candy",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/175.png"
+			}
+		},
+		{
+			"name": "Spoiler",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/176.png"
+			}
+		},
+		{
+			"name": "Black Lightning",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/177.png"
+			}
+		},
+		{
+			"name": "Arsenal",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/178.png"
+			}
+		},
+		{
+			"name": "Thunder and Lightning",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/179.png"
+			}
+		},
+		{
+			"name": "Lazarus Rebirth",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/180.png"
+			}
+		},
+		{
+			"name": "Jade",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/181.png"
+			}
+		},
+		{
+			"name": "Madame Xanadu",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/182.png"
+			}
+		},
+		{
+			"name": "Nightmaster",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/183.png"
+			}
+		},
+		{
+			"name": "Cheetah",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Cat",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/184.png"
+			}
+		},
+		{
+			"name": "Miss Martian",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Alien Shapeshifter",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/185.png"
+			}
+		},
+		{
+			"name": "Ra's al Ghul",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Planeswalker — Ra's",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/186.png"
+			}
+		},
+		{
+			"name": "Blackest Night",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/187.png"
+			}
+		},
+		{
+			"name": "Steve Trevor",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/188.png"
+			}
+		},
+		{
+			"name": "Warlord",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/189.png"
+			}
+		},
+		{
+			"name": "Natasha Irons",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/190.png"
+			}
+		},
+		{
+			"name": "Hippolyta",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Demigod Noble",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/191.png"
+			}
+		},
+		{
+			"name": "Zero Hour: Crisis in Time!",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/192.png"
+			}
+		},
+		{
+			"name": "Wally West",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/193.png"
+			}
+		},
+		{
+			"name": "Time Runs Out",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/194.png"
+			}
+		},
+		{
+			"name": "Red Tornado",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/195.png"
+			}
+		},
+		{
+			"name": "Final Detonation",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/196.png"
+			}
+		},
+		{
+			"name": "Mogo",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/197.png"
+			}
+		},
+		{
+			"name": "Bumblebee",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/198.png"
+			}
+		},
+		{
+			"name": "Catwoman",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/199.png"
+			}
+		},
+		{
+			"name": "Day of Vengeance",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/200.png"
+			}
+		},
+		{
+			"name": "Flashpoint",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/201.png"
+			}
+		},
+		{
+			"name": "The Judas Contract",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/202.png"
+			}
+		},
+		{
+			"name": "Final Crisis",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/203.png"
+			}
+		},
+		{
+			"name": "Milk Wars",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/204.png"
+			}
+		},
+		{
+			"name": "Beast World",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/205.png"
+			}
+		},
+		{
+			"name": "Black Adam",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Demigod Noble",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/206.png"
+			}
+		},
+		{
+			"name": "John Stewart",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/207.png"
+			}
+		},
+		{
+			"name": "Crazy Jane",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/208.png"
+			}
+		},
+		{
+			"name": "The Riddler",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/209.png"
+			}
+		},
+		{
+			"name": "Fate's Will",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/210.png"
+			}
+		},
+		{
+			"name": "Utter Betrayal",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/211.png"
+			}
+		},
+		{
+			"name": "Anti-Monitor's Wrath",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/212.png"
+			}
+		},
+		{
+			"name": "Two-Face",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/213.png"
+			}
+		},
+		{
+			"name": "Gorilla Grodd",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Legendary Creature — Ape Noble",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/214.png"
+			}
+		},
+		{
+			"name": "The Forever People",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — God Warrior",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/215.png"
+			}
+		},
+		{
+			"name": "Giganta",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/216.png"
+			}
+		},
+		{
+			"name": "Connor Hawke",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/217.png"
+			}
+		},
+		{
+			"name": "Geo-Force",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/218.png"
+			}
+		},
+		{
+			"name": "Danny the Street",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/219.png"
+			}
+		},
+		{
+			"name": "Starfire",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Alien Noble",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/220.png"
+			}
+		},
+		{
+			"name": "Amanda Waller",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/221.png"
+			}
+		},
+		{
+			"name": "The Question",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/222.png"
+			}
+		},
+		{
+			"name": "Wonder Twins",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Alien Shapeshifter",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/223.png"
+			}
+		},
+		{
+			"name": "Ultra-Humanite",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Ape Scientist",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/224.png"
+			}
+		},
+		{
+			"name": "Maxwell Lord",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/225.png"
+			}
+		},
+		{
+			"name": "Scarecrow",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/226.png"
+			}
+		},
+		{
+			"name": "Amazo",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/227.png"
+			}
+		},
+		{
+			"name": "Lady Shiva",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/228.png"
+			}
+		},
+		{
+			"name": "Signal",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/229.png"
+			}
+		},
+		{
+			"name": "Trick Arrows",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/230.png"
+			}
+		},
+		{
+			"name": "Nightshade",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/231.png"
+			}
+		},
+		{
+			"name": "Beast Boy",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human Shapeshifter",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/232.png"
+			}
+		},
+		{
+			"name": "The Creeper",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/233.png"
+			}
+		},
+		{
+			"name": "Bane",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/234.png"
+			}
+		},
+		{
+			"name": "Metamorpho",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/235.png"
+			}
+		},
+		{
+			"name": "Hawk and Dove",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/236.png"
+			}
+		},
+		{
+			"name": "Zatanna",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/237.png"
+			}
+		},
+		{
+			"name": "Lex Luthor",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/238.png"
+			}
+		},
+		{
+			"name": "Etrigan the Demon",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Planeswalker — Etrigan",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/239.png"
+			}
+		},
+		{
+			"name": "Doctor Fate",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Khalid",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/240.png"
+			}
+		},
+		{
+			"name": "The Spectre",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Planeswalker — Aztar",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/241.png"
+			}
+		},
+		{
+			"name": "Crisis on Infinite Earths",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/242.png"
+			}
+		},
+		{
+			"name": "Infinite Crisis",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/243.png"
+			}
+		},
+		{
+			"name": "DC K.O.",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/244.png"
+			}
+		},
+		{
+			"name": "Night of the Owls",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/245.png"
+			}
+		},
+		{
+			"name": "Absolute Power",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/246.png"
+			}
+		},
+		{
+			"name": "Genesis",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/247.png"
+			}
+		},
+		{
+			"name": "Trial of the Amazons",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/248.png"
+			}
+		},
+		{
+			"name": "Lilith Clay",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Mystic",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/249.png"
+			}
+		},
+		{
+			"name": "Sinestro Corps War",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/250.png"
+			}
+		},
+		{
+			"name": "We Are Robin",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/251.png"
+			}
+		},
+		{
+			"name": "Invasion!",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/252.png"
+			}
+		},
+		{
+			"name": "Blue Beetle",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/253.png"
+			}
+		},
+		{
+			"name": "Speedy",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/254.png"
+			}
+		},
+		{
+			"name": "Doctor Light",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/255.png"
+			}
+		},
+		{
+			"name": "Richard Dragon",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/256.png"
+			}
+		},
+		{
+			"name": "Raven",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Demon",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/257.png"
+			}
+		},
+		{
+			"name": "Clayface",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Ooze",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/258.png"
+			}
+		},
+		{
+			"name": "Bronze Tiger",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/259.png"
+			}
+		},
+		{
+			"name": "Brainiac's Skull-Ship",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/260.png"
+			}
+		},
+		{
+			"name": "S.T.R.I.P.E.",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/261.png"
+			}
+		},
+		{
+			"name": "Sea Salvage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/262.png"
+			}
+		},
+		{
+			"name": "Chemo Unleashed",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/263.png"
+			}
+		},
+		{
+			"name": "Trigon",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Trigon",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/264.png"
+			}
+		},
+		{
+			"name": "Break the Bat",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/265.png"
+			}
+		},
+		{
+			"name": "Themiscyra",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/266.png"
+			}
+		},
+		{
+			"name": "Arkham Asylum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/267.png"
+			}
+		},
+		{
+			"name": "The Flash Museum",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/268.png"
+			}
+		},
+		{
+			"name": "Grim Judgement",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/269.png"
+			}
+		},
+		{
+			"name": "Phantom Zone Projector",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/270.png"
+			}
+		},
+		{
+			"name": "Call the Metal Men",
+			"rarity": "special",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/271.png"
+			}
+		},
+		{
+			"name": "Bottled World",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/272.png"
+			}
+		},
+		{
+			"name": "Eclipso",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/273.png"
+			}
+		},
+		{
+			"name": "Obsidian",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Elemental",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/274.png"
+			}
+		},
+		{
+			"name": "Captain Atom",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/275.png"
+			}
+		},
+		{
+			"name": "Plastic Man",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/276.png"
+			}
+		},
+		{
+			"name": "Mister Miracle",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — God Rogue",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/277.png"
+			}
+		},
+		{
+			"name": "Max Mercury",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/278.png"
+			}
+		},
+		{
+			"name": "Jessica Cruz",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/279.png"
+			}
+		},
+		{
+			"name": "Animal Man",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/280.png"
+			}
+		},
+		{
+			"name": "Dial H for Hero",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/281.png"
+			}
+		},
+		{
+			"name": "Azrael",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/282.png"
+			}
+		},
+		{
+			"name": "Huntress",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Human Archer",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/283.png"
+			}
+		},
+		{
+			"name": "Teachings of the Crime Bible",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/284.png"
+			}
+		},
+		{
+			"name": "Power of the Green",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/285.png"
+			}
+		},
+		{
+			"name": "Ivy's Bloom",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/286.png"
+			}
+		},
+		{
+			"name": "The Lasso of Truth",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/287.png"
+			}
+		},
+		{
+			"name": "Mr. Freeze",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/288.png"
+			}
+		},
+		{
+			"name": "The Source Wall",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/289.png"
+			}
+		},
+		{
+			"name": "Starro the Star-Conqueror",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — Starfish Alien",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/290.png"
+			}
+		},
+		{
+			"name": "The Spear of Destiny",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/291.png"
+			}
+		},
+		{
+			"name": "Triumphant Rebirth",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcert",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/292.png"
+			}
+		},
+		{
+			"name": "Luthor's Warsuit",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/293.png"
+			}
+		},
+		{
+			"name": "Wildcat",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/294.png"
+			}
+		},
+		{
+			"name": "Tempest",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Merfolk Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/295.png"
+			}
+		},
+		{
+			"name": "Sojourner Mullein",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/296.png"
+			}
+		},
+		{
+			"name": "Alan Scott",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/297.png"
+			}
+		},
+		{
+			"name": "Guy Gardener",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/298.png"
+			}
+		},
+		{
+			"name": "Lightray",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — God Warrior",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/299.png"
+			}
+		},
+		{
+			"name": "Hellblazer",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/300.png"
+			}
+		},
+		{
+			"name": "Super Speed Strikes",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/301.png"
+			}
+		},
+		{
+			"name": "Devouring Blaze",
+			"rarity": "special",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/302.png"
+			}
+		},
+		{
+			"name": "The Orb of Ra",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/303.png"
+			}
+		},
+		{
+			"name": "Vanishing Point",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/304.png"
+			}
+		},
+		{
+			"name": "The Watchtower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/305.png"
+			}
+		},
+		{
+			"name": "The OMAC Project",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact Enchantment — Saga",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/306.png"
+			}
+		},
+		{
+			"name": "Mr. Nobody",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Planeswalker — Nobody",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/307.png"
+			}
+		},
+		{
+			"name": "Krona's Power Gauntlet",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/308.png"
+			}
+		},
+		{
+			"name": "Jesse Quick",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/309.png"
+			}
+		},
+		{
+			"name": "Cosmic Staff",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/310.png"
+			}
+		},
+		{
+			"name": "Lobo's Spacehog",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/311.png"
+			}
+		},
+		{
+			"name": "Fury of Apokolips",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/312.png"
+			}
+		},
+		{
+			"name": "Xanshi Falls",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/313.png"
+			}
+		},
+		{
+			"name": "Heroism's End",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/314.png"
+			}
+		},
+		{
+			"name": "Power of the Worlogog",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/315.png"
+			}
+		},
+		{
+			"name": "Highfather",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker — Izaya",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/316.png"
+			}
+		},
+		{
+			"name": "The Wizard Shazam",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Mamaragan",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/317.png"
+			}
+		},
+		{
+			"name": "Darkseid",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Planeswalker — Uxas",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/318.png"
+			}
+		},
+		{
+			"name": "Mister Mxyzptlk",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Mxyzptlk",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/319.png"
+			}
+		},
+		{
+			"name": "The Phantom Stranger",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/320.png"
+			}
+		},
+		{
+			"name": "Metron",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Metron",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/321.png"
+			}
+		},
+		{
+			"name": "Brainiac",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Vril",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/322.png"
+			}
+		},
+		{
+			"name": "Ganthet",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Ganthet",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/323.png"
+			}
+		},
+		{
+			"name": "Swamp Thing",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Levi",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/324.png"
+			}
+		},
+		{
+			"name": "Bracelets of Submission",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/325.png"
+			}
+		},
+		{
+			"name": "Trident of Lucifer",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/326.png"
+			}
+		},
+		{
+			"name": "Astro-Harness",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/327.png"
+			}
+		},
+		{
+			"name": "Trident of Neptune",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/328.png"
+			}
+		},
+		{
+			"name": "Man-Bat",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Bat Horror",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/329.png"
+			}
+		},
+		{
+			"name": "Power Girl",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Alien Warrior",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/330.png"
+			}
+		},
+		{
+			"name": "Mary Marvel",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Demigod Warrior",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/331.png"
+			}
+		},
+		{
+			"name": "Captain Marvel",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Demigod Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/332.png"
+			}
+		},
+		{
+			"name": "Living Lightning",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/333.png"
+			}
+		},
+		{
+			"name": "Bounty of Atlantis",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/334.png"
+			}
+		},
+		{
+			"name": "Telepathic Interference",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/335.png"
+			}
+		},
+		{
+			"name": "Jericho",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/336.png"
+			}
+		},
+		{
+			"name": "Armory of the Amazons",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/337.png"
+			}
+		},
+		{
+			"name": "Circe",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Witch",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/338.png"
+			}
+		},
+		{
+			"name": "Atom-Smasher",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/339.png"
+			}
+		},
+		{
+			"name": "Blue Devil",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Devil Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/340.png"
+			}
+		},
+		{
+			"name": "John Constantine",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/341.png"
+			}
+		},
+		{
+			"name": "Feeding Frenzy",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/342.png"
+			}
+		},
+		{
+			"name": "Sprout's Renewal",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/343.png"
+			}
+		},
+		{
+			"name": "Call the Corps",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/344.png"
+			}
+		},
+		{
+			"name": "Cast Through Time",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/345.png"
+			}
+		},
+		{
+			"name": "Mongul",
+			"rarity": "special",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Legendary Creature — Alien Noble",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/346.png"
+			}
+		},
+		{
+			"name": "Kyle Rayner",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Artist",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/347.png"
+			}
+		},
+		{
+			"name": "Cybernetic Rebuke",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/348.png"
+			}
+		},
+		{
+			"name": "Purpose From Beyond",
+			"rarity": "special",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/349.png"
+			}
+		},
+		{
+			"name": "Peacemaker",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/350.png"
+			}
+		},
+		{
+			"name": "Hawkgirl",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Alien Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/351.png"
+			}
+		},
+		{
+			"name": "Reverse Flash",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/352.png"
+			}
+		},
+		{
+			"name": "Canary Cry",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/353.png"
+			}
+		},
+		{
+			"name": "Batwoman",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/354.png"
+			}
+		},
+		{
+			"name": "Sinestro",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Alien Warlock",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/355.png"
+			}
+		},
+		{
+			"name": "Oracle",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/356.png"
+			}
+		},
+		{
+			"name": "King Shark",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Shark Noble",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/357.png"
+			}
+		},
+		{
+			"name": "Vandal Savage",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/358.png"
+			}
+		},
+		{
+			"name": "Enchantress",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/359.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Batman
+	1 Alfred Pennyworth
+	1 Rick Flag Jr.
+	1 Wonder Girl
+	1 Lois Lane
+	1 Stargirl
+	1 Super Son
+	1 Troia
+	1 Hourman
+	1 Doctor Mid-Nite
+	1 Commisioner Gordon
+	1 Superboy
+	1 Steel
+	1 Booster Gold
+	1 Queen Nubia of Themiscyra
+	1 Superman
+	1 Superboy-Prime
+	1 Death of Superman
+	1 The Invisible Jet
+	1 Ted Kord
+	1 The Atom
+	1 Galaxy
+	1 Dreamer
+	1 Rip Hunter
+	1 Martian Manhunter
+	1 Mr Terrific
+	1 Strange Adventures
+	1 Pirtnac
+	1 Crack the Case
+	1 Oracle's Sight
+	1 Peer Through The Multiverse
+	1 Deadman
+	1 Ravager
+	1 Talia al Ghul
+	1 The Penguin
+	1 Veronica Cale
+	1 Deathstroke
+	1 General Zod
+	1 Neron
+	1 Kid Flash
+	1 Damage
+	1 Impulse
+	1 Artemis of Bana-Mighdall
+	1 Black Canary
+	1 Ares
+	1 Terra
+	1 Simon Baz
+	1 Monkey Prince
+	1 Monsieur Mallah
+	1 Halo
+	1 Congorilla
+	1 Grace Choi
+	1 Aqualad
+	1 Cave Carson
+	1 Green Arrow
+	1 Mera
+	1 Poison Ivy
+	1 Doomsday
+	1 G.I. Robot
+	1 The Brain
+	1 Big Barda
+	1 Fire and Ice
+	1 Black Manta
+	1 Elasti-Woman
+	1 Wonder Woman
+	1 Aquaman
+	1 Ocean Master
+	1 Bizarro
+	1 Livewire
+	1 Nightwing
+	1 Robotman
+	1 Atlantis
+	1 Green Lantern
+	1 The Tower of Fate
+	1 LexCorp
+	1 Zandia
+	1 Star City
+	1 Smallville
+	1 The Iceberg Lounge
+	1 Gemworld
+	1 Skartaris
+	1 Amnesty Bay
+	1 Nanda Parbat
+	1 Dinosaur Island
+	1 Qward
+	1 Apokolips
+	1 Rann
+	1 New Genesis
+	1 Warworld
+	1 Krypton
+	1 Czarnia
+	1 Thanagar
+	1 Oa
+	1 Gotham City
+	1 Metropolis
+	1 Hell
+	1 Gateway City
+	1 Central City
+	1 Shiruta
+	1 Keystone City
+	1 Hub City
+	1 Fawcett City
+	1 Coast City
+	1 The Rock of Eternity
+	1 House of Mystery
+	1 Blackgate Penitentiary
+	1 The Arrowcave
+	1 House of Secrets
+	1 The Daily Planet
+	1 A.C.E. Chemical
+	1 Titans Tower
+	1 Warriors Bar
+	1 Happy Harbour
+	1 The Fortress of Solitude
+	1 The Batcave
+	1 Gorilla City
+	1 Hall of Doom
+	1 Kandor
+	1 Belle Reve
+	1 The Oblivion Bar
+	1 Slaughter Swamp
+	1 Justice League Satellite
+	1 Project Cadmus
+	1 Krypto the Super-Dog
+	1 Adam Strange
+	1 Katana
+	1 Resurrection Man
+	1 Rebis
+	1 Bruno Mannheim
+	1 A Better Tomorrow
+	1 Vixen
+	1 Secret Origins
+	1 Kilowog
+	1 Green Lantern Ring
+	1 The Batmobile
+	1 Static
+	1 Jakeem Thunder
+	1 Red Hood
+	1 Solomon Grundy
+	1 Robin
+	1 Deadshot
+	1 Metallo
+	1 Death in the Family
+	1 Flash of Two Worlds
+	1 Cyborg Superman
+	1 Red Robin
+	1 Lobo
+	1 Supergirl
+	1 Challengers of the Unknown
+	1 The Ray
+	1 The Flash
+	1 Captain Cold
+	1 Harley Quinn
+	1 Orion
+	1 Firestorm
+	1 Heat Vision
+	1 The Fun in Funeral
+	1 Red Arrow
+	1 Speed Force Storm
+	1 Batgirl
+	1 Sandman
+	1 Star Sapphire
+	1 S.T.A.R. Labs
+	1 Cyborg
+	1 Jay Garrick
+	1 Hawkman
+	1 Jimmy Olsen
+	1 Amethyst
+	1 Killer Croc
+	1 Detective Chimp
+	1 Brother Eye
+	1 The Joker
+	1 Catman
+	1 Contingency Plan
+	1 Mother Box
+	1 Etta Candy
+	1 Spoiler
+	1 Black Lightning
+	1 Arsenal
+	1 Thunder and Lightning
+	1 Lazarus Rebirth
+	1 Jade
+	1 Madame Xanadu
+	1 Nightmaster
+	1 Cheetah
+	1 Miss Martian
+	1 Ra's al Ghul
+	1 Blackest Night
+	1 Steve Trevor
+	1 Warlord
+	1 Natasha Irons
+	1 Hippolyta
+	1 Zero Hour: Crisis in Time!
+	1 Wally West
+	1 Time Runs Out
+	1 Red Tornado
+	1 Final Detonation
+	1 Mogo
+	1 Bumblebee
+	1 Catwoman
+	1 Day of Vengeance
+	1 Flashpoint
+	1 The Judas Contract
+	1 Final Crisis
+	1 Milk Wars
+	1 Beast World
+	1 Black Adam
+	1 John Stewart
+	1 Crazy Jane
+	1 The Riddler
+	1 Fate's Will
+	1 Utter Betrayal
+	1 Anti-Monitor's Wrath
+	1 Two-Face
+	1 Gorilla Grodd
+	1 The Forever People
+	1 Giganta
+	1 Connor Hawke
+	1 Geo-Force
+	1 Danny the Street
+	1 Starfire
+	1 Amanda Waller
+	1 The Question
+	1 Wonder Twins
+	1 Ultra-Humanite
+	1 Maxwell Lord
+	1 Scarecrow
+	1 Amazo
+	1 Lady Shiva
+	1 Signal
+	1 Trick Arrows
+	1 Nightshade
+	1 Beast Boy
+	1 The Creeper
+	1 Bane
+	1 Metamorpho
+	1 Hawk and Dove
+	1 Zatanna
+	1 Lex Luthor
+	1 Etrigan the Demon
+	1 Doctor Fate
+	1 The Spectre
+	1 Crisis on Infinite Earths
+	1 Infinite Crisis
+	1 DC K.O.
+	1 Night of the Owls
+	1 Absolute Power
+	1 Genesis
+	1 Trial of the Amazons
+	1 Lilith Clay
+	1 Sinestro Corps War
+	1 We Are Robin
+	1 Invasion!
+	1 Blue Beetle
+	1 Speedy
+	1 Doctor Light
+	1 Richard Dragon
+	1 Raven
+	1 Clayface
+	1 Bronze Tiger
+	1 Brainiac's Skull-Ship
+	1 S.T.R.I.P.E.
+	1 Sea Salvage
+	1 Chemo Unleashed
+	1 Trigon
+	1 Break the Bat
+	1 Themiscyra
+	1 Arkham Asylum
+	1 The Flash Museum
+	1 Grim Judgement
+	1 Phantom Zone Projector
+	1 Call the Metal Men
+	1 Bottled World
+	1 Eclipso
+	1 Obsidian
+	1 Captain Atom
+	1 Plastic Man
+	1 Mister Miracle
+	1 Max Mercury
+	1 Jessica Cruz
+	1 Animal Man
+	1 Dial H for Hero
+	1 Azrael
+	1 Huntress
+	1 Teachings of the Crime Bible
+	1 Power of the Green
+	1 Ivy's Bloom
+	1 The Lasso of Truth
+	1 Mr. Freeze
+	1 The Source Wall
+	1 Starro the Star-Conqueror
+	1 The Spear of Destiny
+	1 Triumphant Rebirth
+	1 Luthor's Warsuit
+	1 Wildcat
+	1 Tempest
+	1 Sojourner Mullein
+	1 Alan Scott
+	1 Guy Gardener
+	1 Lightray
+	1 Hellblazer
+	1 Super Speed Strikes
+	1 Devouring Blaze
+	1 The Orb of Ra
+	1 Vanishing Point
+	1 The Watchtower
+	1 The OMAC Project
+	1 Mr. Nobody
+	1 Krona's Power Gauntlet
+	1 Jesse Quick
+	1 Cosmic Staff
+	1 Lobo's Spacehog
+	1 Fury of Apokolips
+	1 Xanshi Falls
+	1 Heroism's End
+	1 Power of the Worlogog
+	1 Highfather
+	1 The Wizard Shazam
+	1 Darkseid
+	1 Mister Mxyzptlk
+	1 The Phantom Stranger
+	1 Metron
+	1 Brainiac
+	1 Ganthet
+	1 Swamp Thing
+	1 Bracelets of Submission
+	1 Trident of Lucifer
+	1 Astro-Harness
+	1 Trident of Neptune
+	1 Man-Bat
+	1 Power Girl
+	1 Mary Marvel
+	1 Captain Marvel
+	1 Living Lightning
+	1 Bounty of Atlantis
+	1 Telepathic Interference
+	1 Jericho
+	1 Armory of the Amazons
+	1 Circe
+	1 Atom-Smasher
+	1 Blue Devil
+	1 John Constantine
+	1 Feeding Frenzy
+	1 Sprout's Renewal
+	1 Call the Corps
+	1 Cast Through Time
+	1 Mongul
+	1 Kyle Rayner
+	1 Cybernetic Rebuke
+	1 Purpose From Beyond
+	1 Peacemaker
+	1 Hawkgirl
+	1 Reverse Flash
+	1 Canary Cry
+	1 Batwoman
+	1 Sinestro
+	1 Oracle
+	1 King Shark
+	1 Vandal Savage
+	1 Enchantress
