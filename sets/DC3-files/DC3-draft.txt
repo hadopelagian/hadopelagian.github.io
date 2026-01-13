@@ -2043,7 +2043,7 @@
 		{
 			"name": "Milk Wars",
 			"rarity": "special",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "180",
 			"image_uris": {
