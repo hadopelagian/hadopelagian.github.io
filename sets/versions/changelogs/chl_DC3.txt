@@ -1,4 +1,157 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Death of Superman
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature loses all abilities until end of turn. Destroy it.
+Search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.
+Return target creature card from your graveyard to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature loses all abilities until end of turn. Destroy it.
+II — Search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.
+III — Return target creature card from your graveyard to the battlefield.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature loses all abilities until end of turn. Destroy it.
+Search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.
+Return target creature card from your graveyard to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature loses all abilities until end of turn. Destroy it.
+II — Search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.
+III — Return target creature card from your graveyard to the battlefield.
+
+Secret Origins
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+The next creature spell you cast this turn costs {2} less to cast.
+Put two +1/+1 counters on target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+II — The next creature spell you cast this turn costs {2} less to cast.
+III — Put two +1/+1 counters on target creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+The next creature spell you cast this turn costs {2} less to cast.
+Put two +1/+1 counters on target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+II — The next creature spell you cast this turn costs {2} less to cast.
+III — Put two +1/+1 counters on target creature.
+
+Zero Hour: Crisis in Time!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return up to two target other nonland permanents to their owner's hands.
+Draw two cards, then discard a card.
+You may exile six cards from your graveyard. If you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target other nonland permanents to their owner's hands.
+II — Draw two cards, then discard a card.
+III — You may exile six cards from your graveyard. If you do, take an extra turn after this one.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return up to two target other nonland permanents to their owner's hands.
+Draw two cards, then discard a card.
+You may exile six cards from your graveyard. If you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target other nonland permanents to their owner's hands.
+II — Draw two cards, then discard a card.
+III — You may exile six cards from your graveyard. If you do, take an extra turn after this one.
+
+Flashpoint
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw two cards, then discard a card.
+The next time you cast a spell this turn, copy it.
+Shuffle your hand and graveyard into your library, then draw seven cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next time you cast a spell this turn, copy it.
+III — Shuffle your hand and graveyard into your library, then draw seven cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw two cards, then discard a card.
+The next time you cast a spell this turn, copy it.
+Shuffle your hand and graveyard into your library, then draw seven cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next time you cast a spell this turn, copy it.
+III — Shuffle your hand and graveyard into your library, then draw seven cards.
+
+The Judas Contract
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​
+
+Crisis on Infinite Earths
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill two cards, draw a card, then discard a card.
+Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, draw a card, then discard a card.
+III — Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill two cards, draw a card, then discard a card.
+Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, draw a card, then discard a card.
+III — Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​
+
+Infinite Crisis
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player discards a card.
+Each player sacrifices a creature.
+Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player discards a card.
+Each player sacrifices a creature.
+II — Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player discards a card.
+Each player sacrifices a creature.
+Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player discards a card.
+Each player sacrifices a creature.
+II — Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.
+
+DC K.O.
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Target creature you control fights target creature you don't control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Target creature you control fights target creature you don't control.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Look at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Target creature you control fights target creature you don't control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Look at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Target creature you control fights target creature you don't control.
+​
+
+Sinestro Corps War
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+Return target permanent card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+I — Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+II — Return target permanent card from your graveyard to your hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+Return target permanent card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+I — Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+II — Return target permanent card from your graveyard to your hand.
+
+Everywhere
+rules_text: {T}: Add one mana of any color. => This land is a Plains, Island, Swamp, Mountain, and Forest. [i]({T}: Add {W}, {U}, {B}, {R} or {G}.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Themiscyra added.
