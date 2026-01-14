@@ -1,4 +1,216 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Secret Origins
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+II — The next creature spell you cast this turn costs {2} less to cast.
+Put two +1/+1 counters on target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+II — The next creature spell you cast this turn costs {2} less to cast.
+III — Put two +1/+1 counters on target creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+II — The next creature spell you cast this turn costs {2} less to cast.
+Put two +1/+1 counters on target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a creature card, reveal it, shuffle, then put it on top of your library.
+II — The next creature spell you cast this turn costs {2} less to cast.
+III — Put two +1/+1 counters on target creature.
+
+Speed Force Storm
+cost: {1}{R} => {R}
+rules_text: Skip your draw step
+At the beginning of your precombat main phase, discard a card. When you do, exile the top three cards of your library. You may play them this turn. If you didn't discard a card this way, sacrifice Speed Force Storm. => At the beginning of your precombat main phase, you may discard a card.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.
+
+Star Sapphire
+rules_text: Flying, haste
+Whenever Star Sapphire attacks, she deals 2 damage to target creature or planeswalker.
+Whenever Star Sapphire deals excess damage, you may discard up to two cards. If you do, draw that many cards. => Flying, haste
+Whenever Star Sapphire attacks, she deals 2 damage to target creature or planeswalker.
+Whenever Star Sapphire deals excess damage, exile the top two cards of your library. You may play them this turn.
+
+Zero Hour: Crisis in Time!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return up to two target other nonland permanents to their owner's hands.
+Draw two cards, then discard a card.
+You may exile six cards from your graveyard. If you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target other nonland permanents to their owner's hands.
+II — Draw two cards, then discard a card.
+III — You may exile six cards from your graveyard. If you do, take an extra turn after this one.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return up to two target other nonland permanents to their owner's hands.
+Draw two cards, then discard a card.
+You may exile six cards from your graveyard. If you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target other nonland permanents to their owner's hands.
+II — Draw two cards, then discard a card.
+III — You may exile six cards from your graveyard. If you do, take an extra turn after this one.
+
+Flashpoint
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw two cards, then discard a card.
+I — The next time you cast a spell this turn, copy it.
+II — Shuffle your hand and graveyard into your library, then draw seven cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+The next time you cast a spell this turn, copy it.
+II — Shuffle your hand and graveyard into your library, then draw seven cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw two cards, then discard a card.
+I — The next time you cast a spell this turn, copy it.
+II — Shuffle your hand and graveyard into your library, then draw seven cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+The next time you cast a spell this turn, copy it.
+II — Shuffle your hand and graveyard into your library, then draw seven cards.
+
+The Judas Contract
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Target player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​
+
+Beast World
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+III — Put two +1/+1 counters on each creature you control. 
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+III — Put two +1/+1 counters on each creature you control. 
+​
+
+Crisis on Infinite Earths
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill two cards, draw a card, then discard a card.
+Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, draw a card, then discard a card.
+III — Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill two cards, draw a card, then discard a card.
+Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards, draw a card, then discard a card.
+III — Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.
+​
+
+Infinite Crisis
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player discards a card.
+Each player sacrifices a creature.
+Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player discards a card.
+Each player sacrifices a creature.
+II — Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player discards a card.
+Each player sacrifices a creature.
+Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player discards a card.
+Each player sacrifices a creature.
+II — Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.
+
+Night of the Owls
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You become the monarch.
+II, III, IV — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+V — Exile target nonland permanent. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You become the monarch.
+I — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+II, III, IV — Exile target nonland permanent.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You become the monarch.
+II, III, IV — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+V — Exile target nonland permanent. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You become the monarch.
+I — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+II, III, IV — Exile target nonland permanent.
+
+Absolute Power
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a token that's a copy of target creature, except it isn't legendary and is an artifact in addition to its other types.
+Each player sacrifices two nonartifact creatures
+Each opponent discards two cards. Draw two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a token that's a copy of target creature, except it isn't legendary and is an artifact in addition to its other types.
+III — Each player sacrifices two nonartifact creatures
+IV — Each opponent discards two cards. Draw two cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a token that's a copy of target creature, except it isn't legendary and is an artifact in addition to its other types.
+Each player sacrifices two nonartifact creatures
+Each opponent discards two cards. Draw two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a token that's a copy of target creature, except it isn't legendary and is an artifact in addition to its other types.
+III — Each player sacrifices two nonartifact creatures
+IV — Each opponent discards two cards. Draw two cards.
+
+We Are Robin
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two Clue tokens.
+II — Exile up to one target creature, then return it to the battlefield under its owner's control.
+III — You may sacrifice any number of artifacts. When you do, draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two Clue tokens.
+I — Exile up to one target creature, then return it to the battlefield under its owner's control.
+II — You may sacrifice any number of artifacts. When you do, draw that many cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two Clue tokens.
+II — Exile up to one target creature, then return it to the battlefield under its owner's control.
+III — You may sacrifice any number of artifacts. When you do, draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two Clue tokens.
+I — Exile up to one target creature, then return it to the battlefield under its owner's control.
+II — You may sacrifice any number of artifacts. When you do, draw that many cards.
+
+Triumphant Rebirth
+type: Sorcert => Sorcery
+
+Hellblazer
+rules_text: Hellblazer deals 2 damage to any target.
+{2}{R}{R}, Exile Hellblazer from your graveyard: Discard two cards, then draw two cards. => Hellblazer deals 2 damage to any target.
+{2}{R}{R}, Exile Hellblazer from your graveyard: Exile the top two cards of your library. You may play them until the end of your next turn.
+
+Super Speed Strikes
+cost: {2}{R} => {R}
+rules_text: Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+Super Speed Strikes deals 1 damage to any target.
+Super Speed Strikes deals 1 damage to any target.
+Super Speed Strikes deals 1 damage to any target. => Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+Super Speed Strikes deals 1 damage to any target.
+Super Speed Strikes deals 1 damage to any target.
+
+The OMAC Project
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Robot artifact creature token.
+Search your library for an artifact card with mana value 2 or less and put it onto the battlefield, then shuffle.
+Draw a card for each artifact you control. [i](Including The OMAC Project.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Robot artifact creature token.
+II — Search your library for an artifact card with mana value 2 or less and put it onto the battlefield, then shuffle.
+III — Draw a card for each artifact you control. [i](Including The OMAC Project.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Robot artifact creature token.
+Search your library for an artifact card with mana value 2 or less and put it onto the battlefield, then shuffle.
+Draw a card for each artifact you control. [i](Including The OMAC Project.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Robot artifact creature token.
+II — Search your library for an artifact card with mana value 2 or less and put it onto the battlefield, then shuffle.
+III — Draw a card for each artifact you control. [i](Including The OMAC Project.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

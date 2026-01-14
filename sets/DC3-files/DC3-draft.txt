@@ -1583,7 +1583,7 @@
 		{
 			"name": "Speed Force Storm",
 			"rarity": "special",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Enchantment",
 			"collector_number": "189",
 			"image_uris": {
@@ -2924,7 +2924,7 @@
 			"name": "Triumphant Rebirth",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Sorcert",
+			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/292.png"
@@ -3013,7 +3013,7 @@
 		{
 			"name": "Super Speed Strikes",
 			"rarity": "special",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
