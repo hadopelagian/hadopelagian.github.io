@@ -735,7 +735,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "355",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/73.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "360",
+			"collector_number": "359",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/75.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "358",
+			"collector_number": "357",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/88.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "354",
+			"collector_number": "353",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "357",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/111.png"
 			}
@@ -2661,23 +2661,13 @@
 			}
 		},
 		{
-			"name": "Themiscyra",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "353",
-			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/266.png"
-			}
-		},
-		{
 			"name": "Arkham Asylum",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "304",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/267.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/266.png"
 			}
 		},
 		{
@@ -2687,7 +2677,7 @@
 			"type": "Legendary Land",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/268.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/267.png"
 			}
 		},
 		{
@@ -2697,7 +2687,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/269.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/268.png"
 			}
 		},
 		{
@@ -2707,7 +2697,7 @@
 			"type": "Artifact",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/270.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/269.png"
 			}
 		},
 		{
@@ -2717,7 +2707,7 @@
 			"type": "Sorcery",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/271.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/270.png"
 			}
 		},
 		{
@@ -2727,7 +2717,7 @@
 			"type": "Artifact",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/272.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/271.png"
 			}
 		},
 		{
@@ -2737,7 +2727,7 @@
 			"type": "Legendary Enchantment Creature — Avatar",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/273.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/272.png"
 			}
 		},
 		{
@@ -2747,7 +2737,7 @@
 			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/274.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/273.png"
 			}
 		},
 		{
@@ -2757,7 +2747,7 @@
 			"type": "Legendary Creature — Human Mutant",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/275.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/274.png"
 			}
 		},
 		{
@@ -2767,7 +2757,7 @@
 			"type": "Legendary Creature — Human Mutant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/276.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/275.png"
 			}
 		},
 		{
@@ -2777,7 +2767,7 @@
 			"type": "Legendary Creature — God Rogue",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/277.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/276.png"
 			}
 		},
 		{
@@ -2787,7 +2777,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/278.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/277.png"
 			}
 		},
 		{
@@ -2797,7 +2787,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/279.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/278.png"
 			}
 		},
 		{
@@ -2807,7 +2797,7 @@
 			"type": "Legendary Creature — Human Avatar",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/280.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/279.png"
 			}
 		},
 		{
@@ -2817,7 +2807,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/281.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/280.png"
 			}
 		},
 		{
@@ -2827,7 +2817,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/282.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/281.png"
 			}
 		},
 		{
@@ -2837,7 +2827,7 @@
 			"type": "Legendary Creature — Human Archer",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/283.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/282.png"
 			}
 		},
 		{
@@ -2847,7 +2837,7 @@
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/284.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/283.png"
 			}
 		},
 		{
@@ -2857,7 +2847,7 @@
 			"type": "Sorcery",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/285.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/284.png"
 			}
 		},
 		{
@@ -2867,7 +2857,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/286.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/285.png"
 			}
 		},
 		{
@@ -2877,7 +2867,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/287.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/286.png"
 			}
 		},
 		{
@@ -2887,7 +2877,7 @@
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/288.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/287.png"
 			}
 		},
 		{
@@ -2897,7 +2887,7 @@
 			"type": "Legendary Land",
 			"collector_number": "350",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/289.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/288.png"
 			}
 		},
 		{
@@ -2907,7 +2897,7 @@
 			"type": "Legendary Creature — Starfish Alien",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/290.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/289.png"
 			}
 		},
 		{
@@ -2917,7 +2907,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/291.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/290.png"
 			}
 		},
 		{
@@ -2927,7 +2917,7 @@
 			"type": "Sorcery",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/292.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/291.png"
 			}
 		},
 		{
@@ -2937,7 +2927,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/293.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/292.png"
 			}
 		},
 		{
@@ -2947,7 +2937,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/294.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/293.png"
 			}
 		},
 		{
@@ -2957,7 +2947,7 @@
 			"type": "Legendary Creature — Merfolk Wizard",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/295.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/294.png"
 			}
 		},
 		{
@@ -2967,7 +2957,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/296.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/295.png"
 			}
 		},
 		{
@@ -2977,7 +2967,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/297.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/296.png"
 			}
 		},
 		{
@@ -2987,7 +2977,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/298.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/297.png"
 			}
 		},
 		{
@@ -2997,7 +2987,7 @@
 			"type": "Legendary Creature — God Warrior",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/299.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/298.png"
 			}
 		},
 		{
@@ -3007,7 +2997,7 @@
 			"type": "Instant",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/300.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/299.png"
 			}
 		},
 		{
@@ -3017,7 +3007,7 @@
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/301.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/300.png"
 			}
 		},
 		{
@@ -3027,7 +3017,7 @@
 			"type": "Instant",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/302.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/301.png"
 			}
 		},
 		{
@@ -3037,7 +3027,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/303.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/302.png"
 			}
 		},
 		{
@@ -3045,9 +3035,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "356",
+			"collector_number": "355",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/304.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/303.png"
 			}
 		},
 		{
@@ -3055,9 +3045,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "359",
+			"collector_number": "358",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/305.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/304.png"
 			}
 		},
 		{
@@ -3067,7 +3057,7 @@
 			"type": "Artifact Enchantment — Saga",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/306.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/305.png"
 			}
 		},
 		{
@@ -3077,7 +3067,7 @@
 			"type": "Legendary Planeswalker — Nobody",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/307.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/306.png"
 			}
 		},
 		{
@@ -3087,7 +3077,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/308.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/307.png"
 			}
 		},
 		{
@@ -3097,7 +3087,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/309.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/308.png"
 			}
 		},
 		{
@@ -3107,7 +3097,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/310.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/309.png"
 			}
 		},
 		{
@@ -3117,7 +3107,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/311.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/310.png"
 			}
 		},
 		{
@@ -3127,7 +3117,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/312.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/311.png"
 			}
 		},
 		{
@@ -3137,7 +3127,7 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/313.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/312.png"
 			}
 		},
 		{
@@ -3147,7 +3137,7 @@
 			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/314.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/313.png"
 			}
 		},
 		{
@@ -3157,7 +3147,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/315.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/314.png"
 			}
 		},
 		{
@@ -3167,7 +3157,7 @@
 			"type": "Legendary Planeswalker — Izaya",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/316.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/315.png"
 			}
 		},
 		{
@@ -3177,7 +3167,7 @@
 			"type": "Legendary Planeswalker — Mamaragan",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/317.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/316.png"
 			}
 		},
 		{
@@ -3187,7 +3177,7 @@
 			"type": "Legendary Planeswalker — Uxas",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/318.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/317.png"
 			}
 		},
 		{
@@ -3197,7 +3187,7 @@
 			"type": "Legendary Planeswalker — Mxyzptlk",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/319.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/318.png"
 			}
 		},
 		{
@@ -3207,7 +3197,7 @@
 			"type": "Legendary Planeswalker",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/320.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/319.png"
 			}
 		},
 		{
@@ -3217,7 +3207,7 @@
 			"type": "Legendary Planeswalker — Metron",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/321.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/320.png"
 			}
 		},
 		{
@@ -3227,7 +3217,7 @@
 			"type": "Legendary Planeswalker — Vril",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/322.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/321.png"
 			}
 		},
 		{
@@ -3237,7 +3227,7 @@
 			"type": "Legendary Planeswalker — Ganthet",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/323.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/322.png"
 			}
 		},
 		{
@@ -3247,7 +3237,7 @@
 			"type": "Legendary Creature — Levi",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/324.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/323.png"
 			}
 		},
 		{
@@ -3257,7 +3247,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/325.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/324.png"
 			}
 		},
 		{
@@ -3267,7 +3257,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/326.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/325.png"
 			}
 		},
 		{
@@ -3277,7 +3267,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/327.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/326.png"
 			}
 		},
 		{
@@ -3287,7 +3277,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/328.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/327.png"
 			}
 		},
 		{
@@ -3297,7 +3287,7 @@
 			"type": "Legendary Creature — Bat Horror",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/329.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/328.png"
 			}
 		},
 		{
@@ -3307,7 +3297,7 @@
 			"type": "Legendary Creature — Alien Warrior",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/330.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/329.png"
 			}
 		},
 		{
@@ -3317,7 +3307,7 @@
 			"type": "Legendary Creature — Demigod Warrior",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/331.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/330.png"
 			}
 		},
 		{
@@ -3327,7 +3317,7 @@
 			"type": "Legendary Creature — Demigod Warrior",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/332.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/331.png"
 			}
 		},
 		{
@@ -3337,7 +3327,7 @@
 			"type": "Sorcery",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/333.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/332.png"
 			}
 		},
 		{
@@ -3347,7 +3337,7 @@
 			"type": "Sorcery",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/334.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/333.png"
 			}
 		},
 		{
@@ -3357,7 +3347,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/335.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/334.png"
 			}
 		},
 		{
@@ -3367,7 +3357,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/336.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/335.png"
 			}
 		},
 		{
@@ -3377,7 +3367,7 @@
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/337.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/336.png"
 			}
 		},
 		{
@@ -3387,7 +3377,7 @@
 			"type": "Legendary Creature — Human Witch",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/338.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/337.png"
 			}
 		},
 		{
@@ -3397,7 +3387,7 @@
 			"type": "Legendary Creature — Human Mutant",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/339.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/338.png"
 			}
 		},
 		{
@@ -3407,7 +3397,7 @@
 			"type": "Legendary Creature — Devil Warrior",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/340.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/339.png"
 			}
 		},
 		{
@@ -3417,7 +3407,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/341.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/340.png"
 			}
 		},
 		{
@@ -3427,7 +3417,7 @@
 			"type": "Instant",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/342.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/341.png"
 			}
 		},
 		{
@@ -3437,7 +3427,7 @@
 			"type": "Sorcery",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/343.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/342.png"
 			}
 		},
 		{
@@ -3447,7 +3437,7 @@
 			"type": "Sorcery",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/344.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/343.png"
 			}
 		},
 		{
@@ -3457,7 +3447,7 @@
 			"type": "Instant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/345.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/344.png"
 			}
 		},
 		{
@@ -3467,7 +3457,7 @@
 			"type": "Legendary Creature — Alien Noble",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/346.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/345.png"
 			}
 		},
 		{
@@ -3477,7 +3467,7 @@
 			"type": "Legendary Creature — Human Artist",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/347.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/346.png"
 			}
 		},
 		{
@@ -3487,7 +3477,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/348.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/347.png"
 			}
 		},
 		{
@@ -3497,7 +3487,7 @@
 			"type": "Sorcery",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/349.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/348.png"
 			}
 		},
 		{
@@ -3507,7 +3497,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/350.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/349.png"
 			}
 		},
 		{
@@ -3517,7 +3507,7 @@
 			"type": "Legendary Creature — Alien Knight",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/351.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/350.png"
 			}
 		},
 		{
@@ -3527,7 +3517,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/352.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/351.png"
 			}
 		},
 		{
@@ -3537,7 +3527,7 @@
 			"type": "Instant",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/353.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/352.png"
 			}
 		},
 		{
@@ -3547,7 +3537,7 @@
 			"type": "Legendary Creature — Human Detective",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/354.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/353.png"
 			}
 		},
 		{
@@ -3557,7 +3547,7 @@
 			"type": "Legendary Creature — Alien Warlock",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/355.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/354.png"
 			}
 		},
 		{
@@ -3567,7 +3557,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/356.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/355.png"
 			}
 		},
 		{
@@ -3577,7 +3567,7 @@
 			"type": "Legendary Creature — Shark Noble",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/357.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/356.png"
 			}
 		},
 		{
@@ -3587,7 +3577,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/358.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/357.png"
 			}
 		},
 		{
@@ -3597,7 +3587,337 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "216",
 			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/358.png"
+			}
+		},
+		{
+			"name": "Demigod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Demigod",
+			"collector_number": "2",
+			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/359.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/360.png"
+			}
+		},
+		{
+			"name": "God",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — God",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/361.png"
+			}
+		},
+		{
+			"name": "God's Wrath",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Avatar",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/362.png"
+			}
+		},
+		{
+			"name": "Demigod",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Demigod",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/363.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/364.png"
+			}
+		},
+		{
+			"name": "Drone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Drone",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/365.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/366.png"
+			}
+		},
+		{
+			"name": "T-Sphere",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/367.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/368.png"
+			}
+		},
+		{
+			"name": "Octopus",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Octopus",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/369.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/370.png"
+			}
+		},
+		{
+			"name": "Demon Mutant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Demon Mutant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/371.png"
+			}
+		},
+		{
+			"name": "Alien",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Alien",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/372.png"
+			}
+		},
+		{
+			"name": "Minion Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Minion Army",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/373.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/374.png"
+			}
+		},
+		{
+			"name": "Demon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/375.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/376.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/377.png"
+			}
+		},
+		{
+			"name": "Devil",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Devil",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/378.png"
+			}
+		},
+		{
+			"name": "Junk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/379.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Construct",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/380.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Construct",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/381.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/382.png"
+			}
+		},
+		{
+			"name": "Ape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Ape",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/383.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/384.png"
+			}
+		},
+		{
+			"name": "Everywhere",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Land",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/385.png"
+			}
+		},
+		{
+			"name": "Assassin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Assassin",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/386.png"
+			}
+		},
+		{
+			"name": "Ninja",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Ninja",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/387.png"
+			}
+		},
+		{
+			"name": "Starfish",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Starfish",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/388.png"
+			}
+		},
+		{
+			"name": "Fish",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Fish",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/389.png"
+			}
+		},
+		{
+			"name": "Robot",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/390.png"
+			}
+		},
+		{
+			"name": "Hero",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Hero",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/391.png"
 			}
 		}
 	]
@@ -3869,7 +4189,6 @@
 	1 Chemo Unleashed
 	1 Trigon
 	1 Break the Bat
-	1 Themiscyra
 	1 Arkham Asylum
 	1 The Flash Museum
 	1 Grim Judgement

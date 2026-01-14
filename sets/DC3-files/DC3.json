@@ -356,10 +356,10 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature loses all abilities until end of turn. Destroy it.\nII \u2014 Search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.\nIII \u2014 Return target creature card from your graveyard to the battlefield.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget creature loses all abilities until end of turn. Destroy it.\nSearch your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.\nReturn target creature card from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature loses all abilities until end of turn. Destroy it.\nII \u2014 Search your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.\nIII \u2014 Return target creature card from your graveyard to the battlefield.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget creature loses all abilities until end of turn. Destroy it.\nSearch your library for a creature card with mana value 3 or less, reveal it, and put it into your hand, then shuffle.\nReturn target creature card from your graveyard to the battlefield.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -727,7 +727,7 @@
             "number": 147,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Whenever Veronica Cale or another nontoken creature you control dies, create a 1/1 black Soldier creature token.\n{1}{B}, Sacrifice two other creatures: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",
+            "rules_text": "Whenever Veronica Cale or another nontoken creature you control dies, create a 1/1 white Soldier creature token.\n{1}{B}, Sacrifice two other creatures: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1484,7 +1484,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 355,
+            "number": 354,
             "color_identity": "C",
             "cost": "",
             "rules_text": "The Tower of Fate enters tapped unless you control a Plains or Island.\n{T}, Sacrifice The Tower of Fate: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.",
@@ -1524,7 +1524,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land",
-            "number": 360,
+            "number": 359,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Zandia enters tapped unless you control a Swamp or Mountain.\n{T}, Sacrifice Zandia: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.",
@@ -1784,7 +1784,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Plains Swamp",
-            "number": 358,
+            "number": 357,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "[i]({T}: Add {W} or {B}.)[/i]\nThis land enters tapped unless you control two or fewer other lands.",
@@ -2224,7 +2224,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Plains",
-            "number": 354,
+            "number": 353,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {W}.)[/i]\nWhenever this land becomes tapped, you lose 1 life.",
@@ -2244,7 +2244,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Land \u2014 Mountain Forest",
-            "number": 357,
+            "number": 356,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nThis land enters tapped unless you control two or fewer other lands.",
@@ -2327,7 +2327,7 @@
             "number": 321,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nThis land enters tapped.\n{R}{G}, Discard Gorilla City: Create a 2/2 green Ape creature token with trample.",
+            "rules_text": "[i]({T}: Add {R} or {G}.)[/i]\nThis land enters tapped.\n{R}{G}, Discard Gorilla City: Create a 3/3 green Ape creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2647,10 +2647,10 @@
             "number": 276,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a creature card, reveal it, shuffle, then put it on top of your library.\nII \u2014 The next creature spell you cast this turn costs {2} less to cast.\nIII \u2014 Put two +1/+1 counters on target creature.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nSearch your library for a creature card, reveal it, shuffle, then put it on top of your library.\nThe next creature spell you cast this turn costs {2} less to cast.\nPut two +1/+1 counters on target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Search your library for a creature card, reveal it, shuffle, then put it on top of your library.\nII \u2014 The next creature spell you cast this turn costs {2} less to cast.\nIII \u2014 Put two +1/+1 counters on target creature.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nSearch your library for a creature card, reveal it, shuffle, then put it on top of your library.\nThe next creature spell you cast this turn costs {2} less to cast.\nPut two +1/+1 counters on target creature.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -2887,10 +2887,10 @@
             "number": 163,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Discard up to two cards. If you do, draw that many cards.\nCreate a tapped Treasure token.\nII, III \u2014 At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Discard up to two cards. If you do, draw that many cards.\nII \u2014 Create a tapped Treasure token.\nIII \u2014 At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Discard up to two cards. If you do, draw that many cards.\nCreate a tapped Treasure token.\nII, III \u2014 At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Discard up to two cards. If you do, draw that many cards.\nII \u2014 Create a tapped Treasure token.\nIII \u2014 At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -3449,7 +3449,7 @@
             "number": 290,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "When Brother Eye enters, destroy all legendary creatures.\nAt the beginning of your end step, create two 4/4 colorless Robot creature tokens.",
+            "rules_text": "When Brother Eye enters, destroy all legendary creatures.\nAt the beginning of your end step, create two 4/4 colorless Robot artifact creature tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3889,10 +3889,10 @@
             "number": 99,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Return up to two target other nonland permanents to their owner's hands.\nII \u2014 Draw two cards, then discard a card.\nIII \u2014 You may exile six cards from your graveyard. If you do, take an extra turn after this one.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nReturn up to two target other nonland permanents to their owner's hands.\nDraw two cards, then discard a card.\nYou may exile six cards from your graveyard. If you do, take an extra turn after this one.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Return up to two target other nonland permanents to their owner's hands.\nII \u2014 Draw two cards, then discard a card.\nIII \u2014 You may exile six cards from your graveyard. If you do, take an extra turn after this one.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nReturn up to two target other nonland permanents to their owner's hands.\nDraw two cards, then discard a card.\nYou may exile six cards from your graveyard. If you do, take an extra turn after this one.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4049,10 +4049,10 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all creatures with mana value 4 or greater.\nII \u2014 Destroy all creatures with mana value 3 or less.\nIII \u2014 Create God's Wrath, a legendary 6/6 Spirit creature token with flying and vigilance.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all creatures with mana value 4 or greater.\nII \u2014 Destroy all creatures with mana value 3 or less.\nIII \u2014 Create God's Wrath, a legendary 6/6 Avatar creature token with flying and vigilance.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all creatures with mana value 4 or greater.\nII \u2014 Destroy all creatures with mana value 3 or less.\nIII \u2014 Create God's Wrath, a legendary 6/6 Spirit creature token with flying and vigilance.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy all creatures with mana value 4 or greater.\nII \u2014 Destroy all creatures with mana value 3 or less.\nIII \u2014 Create God's Wrath, a legendary 6/6 Avatar creature token with flying and vigilance.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4069,10 +4069,10 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw two cards, then discard a card.\nII \u2014 The next time you cast a spell this turn, copy it.\nIII \u2014 Shuffle your hand and graveyard into your library, then draw seven cards.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDraw two cards, then discard a card.\nThe next time you cast a spell this turn, copy it.\nShuffle your hand and graveyard into your library, then draw seven cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw two cards, then discard a card.\nII \u2014 The next time you cast a spell this turn, copy it.\nIII \u2014 Shuffle your hand and graveyard into your library, then draw seven cards.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDraw two cards, then discard a card.\nThe next time you cast a spell this turn, copy it.\nShuffle your hand and graveyard into your library, then draw seven cards.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4089,10 +4089,10 @@
             "number": 117,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Target player sacrifices a creature.\nSearch your library for a card and put it into your hand, then shuffle.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget player sacrifices a creature.\nSearch your library for a card and put it into your hand, then shuffle.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Target player sacrifices a creature.\nSearch your library for a card and put it into your hand, then shuffle.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget player sacrifices a creature.\nSearch your library for a card and put it into your hand, then shuffle.\n\u200b",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4149,10 +4149,10 @@
             "number": 203,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.\nIII \u2014 Put two +1/+1 counters on each creature you control. \n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.\nPut two +1/+1 counters on each creature you control. \n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.\nIII \u2014 Put two +1/+1 counters on each creature you control. \n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.\nPut two +1/+1 counters on each creature you control. \n\u200b",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4560,7 +4560,7 @@
             "number": 123,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "At the beginning of your upkeep, choose any number. You lose 1 life for each option chosen this way.\n\u2022 Create a Treasure token.\n\u2022 Create a 1/1 black Soldier creature token.\n\u2022 Each player discards a card.",
+            "rules_text": "At the beginning of your upkeep, choose any number. You lose 1 life for each option chosen this way.\n\u2022 Create a Treasure token.\n\u2022 Create a 1/1 white Soldier creature token.\n\u2022 Each player discards a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4911,10 +4911,10 @@
             "number": 258,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Mill two cards, draw a card, then discard a card.\nIII \u2014 Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill two cards, draw a card, then discard a card.\nUntil end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Mill two cards, draw a card, then discard a card.\nIII \u2014 Until end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill two cards, draw a card, then discard a card.\nUntil end of turn, you may cast instant and sorcery cards from your graveyard. When you cast a spell this way, exile it as it resolves.\n\u200b",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4931,10 +4931,10 @@
             "number": 265,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each player discards a card.\nEach player sacrifices a creature.\nII \u2014 Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEach player discards a card.\nEach player sacrifices a creature.\nUntil end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Each player discards a card.\nEach player sacrifices a creature.\nII \u2014 Until end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEach player discards a card.\nEach player sacrifices a creature.\nUntil end of turn, if a source you control would deal damage to a player or planeswalker, it deals twice as much damage instead.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4951,10 +4951,10 @@
             "number": 214,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Look at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.\nTarget creature you control fights target creature you don't control.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nLook at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.\nTarget creature you control fights target creature you don't control.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Look at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.\nTarget creature you control fights target creature you don't control.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nLook at the top six cards of your library. Put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.\nTarget creature you control fights target creature you don't control.\n\u200b",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -4971,10 +4971,10 @@
             "number": 271,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nYou become the monarch.\nI \u2014 Create a 1/1 black Assassin creature token with lifelink and deathtouch.\nII, III, IV \u2014 Exile target nonland permanent.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 You become the monarch.\nII, III, IV \u2014 Create a 1/1 black Assassin creature token with lifelink and deathtouch.\nV \u2014 Exile target nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nYou become the monarch.\nI \u2014 Create a 1/1 black Assassin creature token with lifelink and deathtouch.\nII, III, IV \u2014 Exile target nonland permanent.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 You become the monarch.\nII, III, IV \u2014 Create a 1/1 black Assassin creature token with lifelink and deathtouch.\nV \u2014 Exile target nonland permanent.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -5031,10 +5031,10 @@
             "number": 282,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create two 1/1 white Demigod creature tokens.\nIII \u2014 Creatures your opponents control can't block this turn.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Create two 1/1 white Demigod creature tokens.\nCreatures your opponents control can't block this turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Create two 1/1 white Demigod creature tokens.\nIII \u2014 Creatures your opponents control can't block this turn.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Create two 1/1 white Demigod creature tokens.\nCreatures your opponents control can't block this turn.\n\u200b",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -5071,10 +5071,10 @@
             "number": 277,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDestroy target permanent.\nI \u2014 Each player searches their library for a land card and puts it onto the battlefield, then shuffles.\nII \u2014 Return target permanent card from your graveyard to your hand.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDestroy target permanent.\nEach player searches their library for a land card and puts it onto the battlefield, then shuffles.\nReturn target permanent card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDestroy target permanent.\nI \u2014 Each player searches their library for a land card and puts it onto the battlefield, then shuffles.\nII \u2014 Return target permanent card from your graveyard to your hand.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDestroy target permanent.\nEach player searches their library for a land card and puts it onto the battlefield, then shuffles.\nReturn target permanent card from your graveyard to your hand.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -5111,10 +5111,10 @@
             "number": 266,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy up to one target artifact or enchantment.\nII \u2014 Create a 2/2 green Alien creature token.\nIII \u2014 Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy up to one target artifact or enchantment.\nII \u2014 Create two 1/1 black Alien creature tokens.\nIII \u2014 Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy up to one target artifact or enchantment.\nII \u2014 Create a 2/2 green Alien creature token.\nIII \u2014 Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy up to one target artifact or enchantment.\nII \u2014 Create two 1/1 black Alien creature tokens.\nIII \u2014 Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.",
             "shape": "saga",
             "set": "DC3",
             "loyalty": "",
@@ -5384,26 +5384,6 @@
             "notes": ""
         },
         {
-            "card_name": "Themiscyra",
-            "color": "",
-            "rarity": "cube",
-            "type": "Legendary Land",
-            "number": 353,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "Themiscyra enters tapped unless you control a basic land.\n{T}: Add {W}.\n{1}{W}{W}, {T}: Create a 1/1 white Demigod creature token.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "DC3",
-            "loyalty": "",
-            "artist": "Yanick Paquette",
-            "alias": "",
-            "position": "266",
-            "notes": ""
-        },
-        {
             "card_name": "Arkham Asylum",
             "color": "",
             "rarity": "cube",
@@ -5420,7 +5400,7 @@
             "loyalty": "",
             "artist": "Mikel Jan\u00edn",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": ""
         },
         {
@@ -5440,7 +5420,7 @@
             "loyalty": "",
             "artist": "Steve Conley",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": ""
         },
         {
@@ -5460,7 +5440,7 @@
             "loyalty": "",
             "artist": "Jos\u00e9 Ladr\u00f6nn",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": ""
         },
         {
@@ -5480,7 +5460,7 @@
             "loyalty": "",
             "artist": "Jason Fabok",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": ""
         },
         {
@@ -5491,7 +5471,7 @@
             "number": 57,
             "color_identity": "U",
             "cost": "{X}{U}{U}{U}",
-            "rules_text": "Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]\nCreate X 0/0 colorless Construct artifact creature token with \u201cThis tokens gets +1/+1 for each artifact you control\u201d. X can't be greater than 6.",
+            "rules_text": "Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]\nCreate X 0/0 colorless Construct artifact creature token with \u201cThis token gets +1/+1 for each artifact you control\u201d. X can't be greater than 6.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5500,7 +5480,7 @@
             "loyalty": "",
             "artist": "Adriano Lucas",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": ""
         },
         {
@@ -5520,7 +5500,7 @@
             "loyalty": "",
             "artist": "Edwin Galmon",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": ""
         },
         {
@@ -5540,7 +5520,7 @@
             "loyalty": "",
             "artist": "Dan Mora",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": ""
         },
         {
@@ -5560,7 +5540,7 @@
             "loyalty": "",
             "artist": "Sal Velluto",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "card_name2": "Seek Shadows",
             "color2": "B",
             "type2": "Instant \u2014 Adventure",
@@ -5591,7 +5571,7 @@
             "loyalty": "",
             "artist": "Stanley Lau",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "card_name2": "Atomic Heart",
             "color2": "W",
             "type2": "Sorcery \u2014 Adventure",
@@ -5622,7 +5602,7 @@
             "loyalty": "",
             "artist": "Aaron Lopresti",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "card_name2": "Twisting Escape",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -5653,7 +5633,7 @@
             "loyalty": "",
             "artist": "Mitch Gerads",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": ""
         },
         {
@@ -5664,16 +5644,16 @@
             "number": 179,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever you discard one or more cards, create a 1/1 red Elemental creature token with haste.",
+            "rules_text": "Whenever you discard one or more cards, create a 2/1 red Elemental creature token with haste.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "adventure",
             "set": "DC3",
             "loyalty": "",
             "artist": "Howard Porter",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "card_name2": "Speed Surge",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -5704,7 +5684,7 @@
             "loyalty": "",
             "artist": "Leonardo Romero",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "card_name2": "Lantern's Light",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
@@ -5735,7 +5715,7 @@
             "loyalty": "",
             "artist": "Brian Bolland",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": ""
         },
         {
@@ -5755,7 +5735,7 @@
             "loyalty": "",
             "artist": "Brian Bolland",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": ""
         },
         {
@@ -5775,7 +5755,7 @@
             "loyalty": "",
             "artist": "Gleb Melnikov",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": ""
         },
         {
@@ -5795,7 +5775,7 @@
             "loyalty": "",
             "artist": "Dan Mora",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": ""
         },
         {
@@ -5815,7 +5795,7 @@
             "loyalty": "",
             "artist": "J.G. Jones",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": ""
         },
         {
@@ -5835,7 +5815,7 @@
             "loyalty": "",
             "artist": "Scot Eaton",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": ""
         },
         {
@@ -5846,7 +5826,7 @@
             "number": 229,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Enchant land\nEnchanted land has \u201c{T}: Add {G}{G}.\u201d\n{G}{G}{G}{G}{G}, Sacrifice Ivy's Bloom: Create two tapped 3/3 green Plant creature tokens.",
+            "rules_text": "Enchant land\nEnchanted land has \u201c{T}: Add {G}{G}.\u201d\n{G}{G}{G}{G}, Sacrifice Ivy's Bloom: Create an X/X green Plant creature token, where X is the number of lands you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5855,7 +5835,7 @@
             "loyalty": "",
             "artist": "Jessica Fong",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": ""
         },
         {
@@ -5875,7 +5855,7 @@
             "loyalty": "",
             "artist": "Phil Jimenez",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": ""
         },
         {
@@ -5895,7 +5875,7 @@
             "loyalty": "",
             "artist": "Gleb Melnikov",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": ""
         },
         {
@@ -5915,7 +5895,7 @@
             "loyalty": "",
             "artist": "John Byrne",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": ""
         },
         {
@@ -5935,7 +5915,7 @@
             "loyalty": "",
             "artist": "Ethan van Sciver",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": ""
         },
         {
@@ -5955,7 +5935,7 @@
             "loyalty": "",
             "artist": "Lee Garbett",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": ""
         },
         {
@@ -5975,7 +5955,7 @@
             "loyalty": "",
             "artist": "David Finch + Scott Williams + Peter Steigerwald",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": ""
         },
         {
@@ -5995,7 +5975,7 @@
             "loyalty": "",
             "artist": "Steve Pugh",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": ""
         },
         {
@@ -6015,7 +5995,7 @@
             "loyalty": "",
             "artist": "Doug Mahnke",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": ""
         },
         {
@@ -6035,7 +6015,7 @@
             "loyalty": "",
             "artist": "Travis Moore",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": ""
         },
         {
@@ -6055,7 +6035,7 @@
             "loyalty": "",
             "artist": "Sanford Greene",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": ""
         },
         {
@@ -6075,7 +6055,7 @@
             "loyalty": "",
             "artist": "Nick Robles",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": ""
         },
         {
@@ -6095,7 +6075,7 @@
             "loyalty": "",
             "artist": "Doc Shaner",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": ""
         },
         {
@@ -6115,7 +6095,7 @@
             "loyalty": "",
             "artist": "Dan Jurgens",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": ""
         },
         {
@@ -6135,7 +6115,7 @@
             "loyalty": "",
             "artist": "Bilquis Evely",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": ""
         },
         {
@@ -6155,7 +6135,7 @@
             "loyalty": "",
             "artist": "Evan Shaner",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": ""
         },
         {
@@ -6175,7 +6155,7 @@
             "loyalty": "",
             "artist": "J.G. Jones",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "notes": ""
         },
         {
@@ -6195,7 +6175,7 @@
             "loyalty": "",
             "artist": "Steve Lieber",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": ""
         },
         {
@@ -6203,7 +6183,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 356,
+            "number": 355,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{1}, {T}: Target nonbasic land phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
@@ -6215,7 +6195,7 @@
             "loyalty": "",
             "artist": "Dan Jurgens",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "notes": ""
         },
         {
@@ -6223,7 +6203,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Legendary Land",
-            "number": 359,
+            "number": 358,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add {C}.\n{3}, {T}, Sacrifice The Watchtower: Search your library for a card with mana value 5 or greater, reveal it, put it into your hand, then shuffle.",
@@ -6235,7 +6215,7 @@
             "loyalty": "",
             "artist": "Patrick Gleason",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "notes": ""
         },
         {
@@ -6255,7 +6235,7 @@
             "loyalty": "",
             "artist": "Fernando Dagnino",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "notes": ""
         },
         {
@@ -6275,7 +6255,7 @@
             "loyalty": "5",
             "artist": "Richard Case",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "notes": ""
         },
         {
@@ -6295,7 +6275,7 @@
             "loyalty": "",
             "artist": "Brett Booth",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "notes": ""
         },
         {
@@ -6315,7 +6295,7 @@
             "loyalty": "",
             "artist": "Roger Cruz",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "notes": ""
         },
         {
@@ -6335,7 +6315,7 @@
             "loyalty": "",
             "artist": "Ted Brandt + Ro Stein",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "notes": ""
         },
         {
@@ -6355,7 +6335,7 @@
             "loyalty": "",
             "artist": "Kevin O'Neill",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "notes": ""
         },
         {
@@ -6375,7 +6355,7 @@
             "loyalty": "",
             "artist": "Taurin Clarke",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "notes": ""
         },
         {
@@ -6395,7 +6375,7 @@
             "loyalty": "",
             "artist": "Mike Mignola",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "notes": ""
         },
         {
@@ -6415,7 +6395,7 @@
             "loyalty": "",
             "artist": "Stuart Immonen",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "notes": ""
         },
         {
@@ -6435,7 +6415,7 @@
             "loyalty": "",
             "artist": "Howard Porter",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "notes": ""
         },
         {
@@ -6455,7 +6435,7 @@
             "loyalty": "4",
             "artist": "Nimit Malavia",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "notes": ""
         },
         {
@@ -6475,7 +6455,7 @@
             "loyalty": "3",
             "artist": "Gary Frank",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "notes": ""
         },
         {
@@ -6495,7 +6475,7 @@
             "loyalty": "5",
             "artist": "Dan Mora",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": ""
         },
         {
@@ -6515,7 +6495,7 @@
             "loyalty": "3",
             "artist": "Dan Mora",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": ""
         },
         {
@@ -6535,7 +6515,7 @@
             "loyalty": "3",
             "artist": "Keith Giffen",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": ""
         },
         {
@@ -6555,7 +6535,7 @@
             "loyalty": "4",
             "artist": "Alex Garner",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "notes": ""
         },
         {
@@ -6575,7 +6555,7 @@
             "loyalty": "5",
             "artist": "Jorge Jim\u00e9nez",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "notes": ""
         },
         {
@@ -6595,7 +6575,7 @@
             "loyalty": "4",
             "artist": "Eddy Barrows",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "notes": ""
         },
         {
@@ -6615,7 +6595,7 @@
             "loyalty": "5",
             "artist": "Kyle Hotz",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "notes": ""
         },
         {
@@ -6635,7 +6615,7 @@
             "loyalty": "",
             "artist": "David Talaski",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "notes": ""
         },
         {
@@ -6655,7 +6635,7 @@
             "loyalty": "",
             "artist": "Mario Alberti",
             "alias": "",
-            "position": "326",
+            "position": "325",
             "notes": ""
         },
         {
@@ -6675,7 +6655,7 @@
             "loyalty": "",
             "artist": "John Byrne",
             "alias": "",
-            "position": "327",
+            "position": "326",
             "notes": ""
         },
         {
@@ -6695,7 +6675,7 @@
             "loyalty": "",
             "artist": "Rafael Albuquerque",
             "alias": "",
-            "position": "328",
+            "position": "327",
             "notes": ""
         },
         {
@@ -6715,7 +6695,7 @@
             "loyalty": "",
             "artist": "Marcelo Di Chiara",
             "alias": "",
-            "position": "329",
+            "position": "328",
             "notes": ""
         },
         {
@@ -6735,7 +6715,7 @@
             "loyalty": "",
             "artist": "Terry Dodson",
             "alias": "",
-            "position": "330",
+            "position": "329",
             "notes": ""
         },
         {
@@ -6755,7 +6735,7 @@
             "loyalty": "",
             "artist": "Evan Shaner",
             "alias": "",
-            "position": "331",
+            "position": "330",
             "notes": ""
         },
         {
@@ -6775,7 +6755,7 @@
             "loyalty": "",
             "artist": "Evan Shaner",
             "alias": "",
-            "position": "332",
+            "position": "331",
             "notes": ""
         },
         {
@@ -6795,7 +6775,7 @@
             "loyalty": "",
             "artist": "John Timms",
             "alias": "",
-            "position": "333",
+            "position": "332",
             "notes": ""
         },
         {
@@ -6815,7 +6795,7 @@
             "loyalty": "",
             "artist": "Esteban Maroto",
             "alias": "",
-            "position": "334",
+            "position": "333",
             "notes": ""
         },
         {
@@ -6835,7 +6815,7 @@
             "loyalty": "",
             "artist": "Riley Rossmo",
             "alias": "",
-            "position": "335",
+            "position": "334",
             "notes": ""
         },
         {
@@ -6855,7 +6835,7 @@
             "loyalty": "",
             "artist": "Tom Grummett",
             "alias": "",
-            "position": "336",
+            "position": "335",
             "notes": ""
         },
         {
@@ -6875,7 +6855,7 @@
             "loyalty": "",
             "artist": "Terry Dodson",
             "alias": "",
-            "position": "337",
+            "position": "336",
             "notes": ""
         },
         {
@@ -6895,7 +6875,7 @@
             "loyalty": "",
             "artist": "Terry Dodson",
             "alias": "",
-            "position": "338",
+            "position": "337",
             "notes": ""
         },
         {
@@ -6915,7 +6895,7 @@
             "loyalty": "",
             "artist": "Alan Davis",
             "alias": "",
-            "position": "339",
+            "position": "338",
             "notes": ""
         },
         {
@@ -6935,7 +6915,7 @@
             "loyalty": "",
             "artist": "Daniel Sampere",
             "alias": "",
-            "position": "340",
+            "position": "339",
             "notes": ""
         },
         {
@@ -6955,7 +6935,7 @@
             "loyalty": "",
             "artist": "Riley Rossmo",
             "alias": "",
-            "position": "341",
+            "position": "340",
             "notes": ""
         },
         {
@@ -6975,7 +6955,7 @@
             "loyalty": "",
             "artist": "Jorge Jimenez",
             "alias": "",
-            "position": "342",
+            "position": "341",
             "notes": ""
         },
         {
@@ -6995,7 +6975,7 @@
             "loyalty": "",
             "artist": "Mike Perkins",
             "alias": "",
-            "position": "343",
+            "position": "342",
             "notes": ""
         },
         {
@@ -7015,7 +6995,7 @@
             "loyalty": "",
             "artist": "Joe Prado",
             "alias": "",
-            "position": "344",
+            "position": "343",
             "notes": ""
         },
         {
@@ -7035,7 +7015,7 @@
             "loyalty": "",
             "artist": "J.G. Jones",
             "alias": "",
-            "position": "345",
+            "position": "344",
             "notes": ""
         },
         {
@@ -7055,7 +7035,7 @@
             "loyalty": "",
             "artist": "Daniel Sampere",
             "alias": "",
-            "position": "346",
+            "position": "345",
             "notes": ""
         },
         {
@@ -7075,7 +7055,7 @@
             "loyalty": "",
             "artist": "Lucas Meyer",
             "alias": "",
-            "position": "347",
+            "position": "346",
             "notes": ""
         },
         {
@@ -7095,7 +7075,7 @@
             "loyalty": "",
             "artist": "Edwin Galmon",
             "alias": "",
-            "position": "348",
+            "position": "347",
             "notes": ""
         },
         {
@@ -7115,7 +7095,7 @@
             "loyalty": "",
             "artist": "Matthew Smith",
             "alias": "",
-            "position": "349",
+            "position": "348",
             "notes": ""
         },
         {
@@ -7135,7 +7115,7 @@
             "loyalty": "",
             "artist": "Joe Quinones",
             "alias": "",
-            "position": "350",
+            "position": "349",
             "notes": ""
         },
         {
@@ -7155,7 +7135,7 @@
             "loyalty": "",
             "artist": "Jim Lee",
             "alias": "",
-            "position": "351",
+            "position": "350",
             "notes": ""
         },
         {
@@ -7175,7 +7155,7 @@
             "loyalty": "",
             "artist": "Jason Fabok",
             "alias": "",
-            "position": "352",
+            "position": "351",
             "notes": ""
         },
         {
@@ -7195,7 +7175,7 @@
             "loyalty": "",
             "artist": "Babs Tarr",
             "alias": "",
-            "position": "353",
+            "position": "352",
             "notes": ""
         },
         {
@@ -7215,7 +7195,7 @@
             "loyalty": "",
             "artist": "Dan Panosian",
             "alias": "",
-            "position": "354",
+            "position": "353",
             "notes": ""
         },
         {
@@ -7235,7 +7215,7 @@
             "loyalty": "",
             "artist": "Doug Mahnke",
             "alias": "",
-            "position": "355",
+            "position": "354",
             "notes": ""
         },
         {
@@ -7255,7 +7235,7 @@
             "loyalty": "",
             "artist": "Evan Cagle",
             "alias": "",
-            "position": "356",
+            "position": "355",
             "notes": ""
         },
         {
@@ -7275,7 +7255,7 @@
             "loyalty": "",
             "artist": "Livio Ramondelli",
             "alias": "",
-            "position": "357",
+            "position": "356",
             "notes": ""
         },
         {
@@ -7295,7 +7275,7 @@
             "loyalty": "",
             "artist": "Jorge Jim\u00e9nez",
             "alias": "",
-            "position": "358",
+            "position": "357",
             "notes": ""
         },
         {
@@ -7315,9 +7295,669 @@
             "loyalty": "",
             "artist": "Stjepan \u0160eji\u0107",
             "alias": "",
+            "position": "358",
+            "notes": ""
+        },
+        {
+            "card_name": "Demigod",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Demigod",
+            "number": 2,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Todd Nauck",
+            "alias": "",
             "position": "359",
+            "notes": ""
+        },
+        {
+            "card_name": "Soldier",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Soldier",
+            "number": 7,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Michael Lark",
+            "alias": "",
+            "position": "360",
+            "notes": ""
+        },
+        {
+            "card_name": "God",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 God",
+            "number": 4,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Jim Starlin",
+            "alias": "",
+            "position": "361",
+            "notes": ""
+        },
+        {
+            "card_name": "God's Wrath",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Legendary Creature \u2014 Avatar",
+            "number": 5,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "Flying, vigilance",
+            "flavor_text": "[i][/i]",
+            "pt": "6/6",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Bernie Wrightson",
+            "alias": "",
+            "position": "362",
+            "notes": ""
+        },
+        {
+            "card_name": "Demigod",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Demigod",
+            "number": 3,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Brad Walker",
+            "alias": "",
+            "position": "363",
+            "notes": ""
+        },
+        {
+            "card_name": "Clue",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact \u2014 Clue",
+            "number": 28,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Jason Fabok",
+            "alias": "",
+            "position": "364",
+            "notes": ""
+        },
+        {
+            "card_name": "Drone",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Token Artifact Creature \u2014 Drone",
+            "number": 8,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Gary Frank",
+            "alias": "",
+            "position": "365",
+            "notes": ""
+        },
+        {
+            "card_name": "Construct",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact Creature \u2014 Construct",
+            "number": 29,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "This token gets +1/+1 for each artifact you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Philip Tan",
+            "alias": "",
+            "position": "366",
+            "notes": ""
+        },
+        {
+            "card_name": "T-Sphere",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Token Legendary Artifact",
+            "number": 12,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "{T}: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "J.G. Jones",
+            "alias": "",
+            "position": "367",
+            "notes": ""
+        },
+        {
+            "card_name": "Copy",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "[i]This token can be used to represent a copy of something else.[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "V. Ken Marion",
+            "alias": "",
+            "position": "368",
+            "notes": ""
+        },
+        {
+            "card_name": "Octopus",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Octopus",
+            "number": 10,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Joshua Middleton",
+            "alias": "",
+            "position": "369",
+            "notes": ""
+        },
+        {
+            "card_name": "Blood",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact \u2014 Blood",
+            "number": 27,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Andrea Sorrentino",
+            "alias": "",
+            "position": "370",
+            "notes": ""
+        },
+        {
+            "card_name": "Demon Mutant",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Demon Mutant",
+            "number": 16,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Dan Mora",
+            "alias": "",
+            "position": "371",
+            "notes": ""
+        },
+        {
+            "card_name": "Alien",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Alien",
+            "number": 13,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Will Conrad",
+            "alias": "",
+            "position": "372",
+            "notes": ""
+        },
+        {
+            "card_name": "Minion Army",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Minion Army",
+            "number": 18,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Ty Templeton",
+            "alias": "",
+            "position": "373",
+            "notes": ""
+        },
+        {
+            "card_name": "Elemental",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Elemental",
+            "number": 17,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Brett Booth",
+            "alias": "",
+            "position": "374",
+            "notes": ""
+        },
+        {
+            "card_name": "Demon",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Demon",
+            "number": 15,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Guillem March",
+            "alias": "",
+            "position": "375",
+            "notes": ""
+        },
+        {
+            "card_name": "Treasure",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact \u2014 Treasure",
+            "number": 32,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Ken Lashley",
+            "alias": "",
+            "position": "376",
+            "notes": ""
+        },
+        {
+            "card_name": "Elemental",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Elemental",
+            "number": 20,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "Haste",
+            "flavor_text": "[i][/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Pete Woods",
+            "alias": "",
+            "position": "377",
+            "notes": ""
+        },
+        {
+            "card_name": "Devil",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Devil",
+            "number": 19,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Tony S. Daniel",
+            "alias": "",
+            "position": "378",
+            "notes": ""
+        },
+        {
+            "card_name": "Junk",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact \u2014 Junk",
+            "number": 30,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Jonboy Meyers",
+            "alias": "",
+            "position": "379",
+            "notes": ""
+        },
+        {
+            "card_name": "Construct",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Construct",
+            "number": 23,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Howard Porter",
+            "alias": "",
+            "position": "380",
+            "notes": ""
+        },
+        {
+            "card_name": "Construct",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Construct",
+            "number": 24,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Chris Campana",
+            "alias": "",
+            "position": "381",
+            "notes": ""
+        },
+        {
+            "card_name": "Beast",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Beast",
+            "number": 22,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Mikel Jan\u00edn",
+            "alias": "",
+            "position": "382",
+            "notes": ""
+        },
+        {
+            "card_name": "Ape",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Ape",
+            "number": 21,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Clayton Henry",
+            "alias": "",
+            "position": "383",
+            "notes": ""
+        },
+        {
+            "card_name": "Plant",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Plant",
+            "number": 25,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "X/X",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Dan Mora",
+            "alias": "",
+            "position": "384",
+            "notes": ""
+        },
+        {
+            "card_name": "Everywhere",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Land",
+            "number": 33,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add one mana of any color.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "385",
+            "notes": ""
+        },
+        {
+            "card_name": "Assassin",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Assassin",
+            "number": 14,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Deathtouch, lifelink",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Eddy Barrows",
+            "alias": "",
+            "position": "386",
+            "notes": ""
+        },
+        {
+            "card_name": "Ninja",
+            "color": "B",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Ninja",
+            "number": 26,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Menace\nWhenever this creature deals combat damage to a player, you draw a card and you lose 1 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Roger Cruz",
+            "alias": "",
+            "position": "387",
+            "notes": ""
+        },
+        {
+            "card_name": "Starfish",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Starfish",
+            "number": 11,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "David Finch",
+            "alias": "",
+            "position": "388",
+            "notes": ""
+        },
+        {
+            "card_name": "Fish",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Fish",
+            "number": 9,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Kael Ngu",
+            "alias": "",
+            "position": "389",
+            "notes": ""
+        },
+        {
+            "card_name": "Robot",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact Creature \u2014 Robot",
+            "number": 31,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Jos\u00e9 Ladr\u00f6nn",
+            "alias": "",
+            "position": "390",
+            "notes": ""
+        },
+        {
+            "card_name": "Hero",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Hero",
+            "number": 6,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Joe Quinones",
+            "alias": "",
+            "position": "391",
             "notes": ""
         }
     ],
-    "version": 5
+    "version": 6
 }
