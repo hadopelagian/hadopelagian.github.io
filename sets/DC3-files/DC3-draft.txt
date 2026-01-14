@@ -1583,7 +1583,7 @@
 		{
 			"name": "Speed Force Storm",
 			"rarity": "special",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
 			"collector_number": "189",
 			"image_uris": {

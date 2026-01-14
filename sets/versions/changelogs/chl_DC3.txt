@@ -1,4 +1,96 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Flash of Two Worlds
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+II — Create a tapped Treasure token.
+III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+Create a tapped Treasure token.
+II, III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+II — Create a tapped Treasure token.
+III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+Create a tapped Treasure token.
+II, III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.
+
+Speed Force Storm
+cost: {R} => {1}{R}
+rules_text: At the beginning of your precombat main phase, you may discard a card.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step. => At the beginning of your precombat main phase, you may discard a card. If you do, draw a card.
+Whenever you discard one or more cards, exile the top card of your library. You may play that card until your next end step.
+
+Flashpoint
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+The next time you cast a spell this turn, copy it.
+II — Shuffle your hand and graveyard into your library, then draw seven cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next time you cast a spell this turn, copy it.
+III — Shuffle your hand and graveyard into your library, then draw seven cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+The next time you cast a spell this turn, copy it.
+II — Shuffle your hand and graveyard into your library, then draw seven cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw two cards, then discard a card.
+II — The next time you cast a spell this turn, copy it.
+III — Shuffle your hand and graveyard into your library, then draw seven cards.
+
+Sinestro Corps War
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+Return target permanent card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+I — Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+II — Return target permanent card from your graveyard to your hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+Return target permanent card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy target permanent.
+I — Each player searches their library for a land card and puts it onto the battlefield, then shuffles.
+II — Return target permanent card from your graveyard to your hand.
+
+We Are Robin
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two Clue tokens.
+I — Exile up to one target creature, then return it to the battlefield under its owner's control.
+II — You may sacrifice any number of artifacts. When you do, draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two Clue tokens.
+II — Exile up to one target creature, then return it to the battlefield under its owner's control.
+III — You may sacrifice any number of artifacts. When you do, draw that many cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two Clue tokens.
+I — Exile up to one target creature, then return it to the battlefield under its owner's control.
+II — You may sacrifice any number of artifacts. When you do, draw that many cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two Clue tokens.
+II — Exile up to one target creature, then return it to the battlefield under its owner's control.
+III — You may sacrifice any number of artifacts. When you do, draw that many cards.
+
+Invasion!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact or enchantment.
+Create a 2/2 green Alien creature token.
+Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target artifact or enchantment.
+II — Create a 2/2 green Alien creature token.
+III — Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact or enchantment.
+Create a 2/2 green Alien creature token.
+Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy up to one target artifact or enchantment.
+II — Create a 2/2 green Alien creature token.
+III — Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
