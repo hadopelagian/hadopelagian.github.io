@@ -735,7 +735,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "354",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/73.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "359",
+			"collector_number": "360",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/75.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "357",
+			"collector_number": "358",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/88.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "353",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "356",
+			"collector_number": "357",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/111.png"
 			}
@@ -3035,7 +3035,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "355",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/303.png"
 			}
@@ -3045,7 +3045,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "358",
+			"collector_number": "359",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/304.png"
 			}
@@ -3919,6 +3919,16 @@
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/391.png"
 			}
+		},
+		{
+			"name": "Themiscyra",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/392.png"
+			}
 		}
 	]
 
@@ -4282,3 +4292,4 @@
 	1 King Shark
 	1 Vandal Savage
 	1 Enchantress
+	1 Themiscyra

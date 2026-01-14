@@ -2154,7 +2154,11 @@
     },
     "a->land",
     {
-        "card_name": "e"
+        "card_name": "Themiscyra",
+        "number": 353,
+        "shape": "normal",
+        "set": "DC3",
+        "position": "392"
     },
     {
         "card_name": "Atlantis",
@@ -2327,7 +2331,7 @@
     },
     {
         "card_name": "Warriors Bar",
-        "number": 356,
+        "number": 357,
         "shape": "normal",
         "set": "DC3",
         "position": "111"
@@ -2461,7 +2465,7 @@
     },
     {
         "card_name": "Warworld",
-        "number": 357,
+        "number": 358,
         "shape": "normal",
         "set": "DC3",
         "position": "88"
@@ -2482,7 +2486,7 @@
     },
     {
         "card_name": "Titans Tower",
-        "number": 353,
+        "number": 354,
         "shape": "normal",
         "set": "DC3",
         "position": "110"
@@ -2588,28 +2592,28 @@
     },
     {
         "card_name": "The Tower of Fate",
-        "number": 354,
+        "number": 355,
         "shape": "normal",
         "set": "DC3",
         "position": "73"
     },
     {
         "card_name": "Vanishing Point",
-        "number": 355,
+        "number": 356,
         "shape": "normal",
         "set": "DC3",
         "position": "303"
     },
     {
         "card_name": "The Watchtower",
-        "number": 358,
+        "number": 359,
         "shape": "normal",
         "set": "DC3",
         "position": "304"
     },
     {
         "card_name": "Zandia",
-        "number": 359,
+        "number": 360,
         "shape": "normal",
         "set": "DC3",
         "position": "75"

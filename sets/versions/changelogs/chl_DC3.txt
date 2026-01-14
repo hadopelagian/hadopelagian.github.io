@@ -1,4 +1,75 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Themiscyra added.
+
+
+Flash of Two Worlds
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+II — Create a tapped Treasure token.
+III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+Create a tapped Treasure token.
+II, III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+II — Create a tapped Treasure token.
+III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard up to two cards. If you do, draw that many cards.
+Create a tapped Treasure token.
+II, III — At the beginning of combat on your turn, creatures you control get +1/+0 and gain haste until end of turn.
+
+Beast World
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+III — Put two +1/+1 counters on each creature you control. 
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+III — Put two +1/+1 counters on each creature you control. 
+​
+
+Night of the Owls
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You become the monarch.
+II, III, IV — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+V — Exile target nonland permanent. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You become the monarch.
+I — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+II, III, IV — Exile target nonland permanent.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — You become the monarch.
+II, III, IV — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+V — Exile target nonland permanent. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You become the monarch.
+I — Create a 1/1 black Assassin creature token with lifelink and deathtouch.
+II, III, IV — Exile target nonland permanent.
+
+Trial of the Amazons
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Create two 1/1 white Demigod creature tokens.
+Creatures your opponents control can't block this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two 1/1 white Demigod creature tokens.
+III — Creatures your opponents control can't block this turn.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Create two 1/1 white Demigod creature tokens.
+Creatures your opponents control can't block this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create two 1/1 white Demigod creature tokens.
+III — Creatures your opponents control can't block this turn.
+​
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Demigod added.
