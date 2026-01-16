@@ -30,7 +30,7 @@
     {
         "card_name": "Alan Scott",
         "number": 198,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "296"
     },
@@ -135,14 +135,14 @@
     {
         "card_name": "Atom-Smasher",
         "number": 201,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "338"
     },
     {
         "card_name": "Booster Gold",
         "number": 6,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "13"
     },
@@ -436,7 +436,7 @@
     {
         "card_name": "Deathstroke",
         "number": 112,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "36"
     },
@@ -576,7 +576,7 @@
     {
         "card_name": "General Zod",
         "number": 116,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "37"
     },
@@ -674,7 +674,7 @@
     {
         "card_name": "King Shark",
         "number": 70,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "356"
     },
@@ -989,7 +989,7 @@
     {
         "card_name": "Nightmaster",
         "number": 79,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "183"
     },
@@ -1017,7 +1017,7 @@
     {
         "card_name": "Peacemaker",
         "number": 31,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "349"
     },
@@ -1283,7 +1283,7 @@
     {
         "card_name": "Red Tornado",
         "number": 185,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "195"
     },
@@ -1316,9 +1316,9 @@
         "position": "226"
     },
     {
-        "card_name": "Reverse Flash",
+        "card_name": "Reverse-Flash",
         "number": 186,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
         "position": "351"
     },

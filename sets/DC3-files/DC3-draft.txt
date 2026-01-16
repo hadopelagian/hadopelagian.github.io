@@ -253,7 +253,7 @@
 		{
 			"name": "Mr Terrific",
 			"rarity": "special",
-			"mana_cost": "{5}{U}{U}{U}",
+			"mana_cost": "{5}{U}{U}",
 			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "77",
 			"image_uris": {
@@ -353,7 +353,7 @@
 		{
 			"name": "Veronica Cale",
 			"rarity": "special",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "147",
 			"image_uris": {
@@ -1343,7 +1343,7 @@
 		{
 			"name": "The Batmobile",
 			"rarity": "special",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "52",
 			"image_uris": {
@@ -1453,7 +1453,7 @@
 		{
 			"name": "Red Robin",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Detective",
 			"collector_number": "88",
 			"image_uris": {
@@ -1863,7 +1863,7 @@
 		{
 			"name": "Ra's al Ghul",
 			"rarity": "special",
-			"mana_cost": "{5}{B}{G}",
+			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Planeswalker — Ra's",
 			"collector_number": "274",
 			"image_uris": {
@@ -2023,7 +2023,7 @@
 		{
 			"name": "The Judas Contract",
 			"rarity": "special",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "117",
 			"image_uris": {
@@ -2043,7 +2043,7 @@
 		{
 			"name": "Milk Wars",
 			"rarity": "special",
-			"mana_cost": "{1}{R}{R}",
+			"mana_cost": "{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "180",
 			"image_uris": {
@@ -2153,7 +2153,7 @@
 		{
 			"name": "The Forever People",
 			"rarity": "special",
-			"mana_cost": "{5}{G}{G}",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — God Warrior",
 			"collector_number": "218",
 			"image_uris": {
@@ -2183,7 +2183,7 @@
 		{
 			"name": "Geo-Force",
 			"rarity": "special",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{G}{G}{G}",
 			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "220",
 			"image_uris": {
@@ -2263,7 +2263,7 @@
 		{
 			"name": "Scarecrow",
 			"rarity": "special",
-			"mana_cost": "{4}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "137",
 			"image_uris": {
@@ -2443,7 +2443,7 @@
 		{
 			"name": "DC K.O.",
 			"rarity": "special",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "214",
 			"image_uris": {
@@ -2463,7 +2463,7 @@
 		{
 			"name": "Absolute Power",
 			"rarity": "special",
-			"mana_cost": "{4}{U}{B}",
+			"mana_cost": "{3}{U}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "247",
 			"image_uris": {
@@ -2563,7 +2563,7 @@
 		{
 			"name": "Richard Dragon",
 			"rarity": "special",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "240",
 			"image_uris": {
@@ -2613,7 +2613,7 @@
 		{
 			"name": "S.T.R.I.P.E.",
 			"rarity": "special",
-			"mana_cost": "{1}{W}{W}",
+			"mana_cost": "{W}{W}",
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "36",
 			"image_uris": {
@@ -2813,7 +2813,7 @@
 		{
 			"name": "Azrael",
 			"rarity": "special",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "153",
 			"image_uris": {
@@ -3003,7 +3003,7 @@
 		{
 			"name": "Super Speed Strikes",
 			"rarity": "special",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
@@ -3373,7 +3373,7 @@
 		{
 			"name": "Circe",
 			"rarity": "special",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Witch",
 			"collector_number": "59",
 			"image_uris": {
@@ -3383,7 +3383,7 @@
 		{
 			"name": "Atom-Smasher",
 			"rarity": "special",
-			"mana_cost": "{5}{G}",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Human Mutant",
 			"collector_number": "201",
 			"image_uris": {
@@ -3493,7 +3493,7 @@
 		{
 			"name": "Peacemaker",
 			"rarity": "special",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "31",
 			"image_uris": {
@@ -3511,9 +3511,9 @@
 			}
 		},
 		{
-			"name": "Reverse Flash",
+			"name": "Reverse-Flash",
 			"rarity": "special",
-			"mana_cost": "{2}{R}{R}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "186",
 			"image_uris": {
@@ -3533,7 +3533,7 @@
 		{
 			"name": "Batwoman",
 			"rarity": "special",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Detective",
 			"collector_number": "102",
 			"image_uris": {
@@ -3553,7 +3553,7 @@
 		{
 			"name": "Oracle",
 			"rarity": "special",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "81",
 			"image_uris": {
@@ -3563,7 +3563,7 @@
 		{
 			"name": "King Shark",
 			"rarity": "special",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Shark Noble",
 			"collector_number": "70",
 			"image_uris": {
@@ -3583,8 +3583,8 @@
 		{
 			"name": "Enchantress",
 			"rarity": "special",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature — Human Wizard",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment Creature — Human",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/358.png"
@@ -4284,7 +4284,7 @@
 	1 Purpose From Beyond
 	1 Peacemaker
 	1 Hawkgirl
-	1 Reverse Flash
+	1 Reverse-Flash
 	1 Canary Cry
 	1 Batwoman
 	1 Sinestro
