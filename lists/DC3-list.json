@@ -14,11 +14,11 @@
         "position": "20"
     },
     {
-        "card_name": "Anti-Monitor's Wrath",
+        "card_name": "Batgirl",
         "number": 100,
         "shape": "normal",
         "set": "DC3",
-        "position": "212"
+        "position": "159"
     },
     {
         "card_name": "Ares",
@@ -49,11 +49,11 @@
         "position": "134"
     },
     {
-        "card_name": "Batgirl",
+        "card_name": "Batwoman",
         "number": 101,
         "shape": "normal",
         "set": "DC3",
-        "position": "159"
+        "position": "353"
     },
     {
         "card_name": "Arsenal",
@@ -70,11 +70,11 @@
         "position": "279"
     },
     {
-        "card_name": "Amethyst",
+        "card_name": "Amazons Attack",
         "number": 4,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DC3",
-        "position": "167"
+        "position": "336"
     },
     {
         "card_name": "Blue Beetle",
@@ -84,11 +84,11 @@
         "position": "253"
     },
     {
-        "card_name": "Batwoman",
+        "card_name": "Bizarro",
         "number": 102,
         "shape": "normal",
         "set": "DC3",
-        "position": "353"
+        "position": "67"
     },
     {
         "card_name": "Artemis of Bana-Mighdall",
@@ -105,11 +105,11 @@
         "position": "52"
     },
     {
-        "card_name": "Armory of the Amazons",
+        "card_name": "Amethyst",
         "number": 5,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
-        "position": "336"
+        "position": "167"
     },
     {
         "card_name": "Bottled World",
@@ -119,11 +119,11 @@
         "position": "271"
     },
     {
-        "card_name": "Bizarro",
+        "card_name": "Blackest Night",
         "number": 103,
         "shape": "normal",
         "set": "DC3",
-        "position": "67"
+        "position": "187"
     },
     {
         "card_name": "Astro-Harness",
@@ -154,11 +154,11 @@
         "position": "321"
     },
     {
-        "card_name": "Blackest Night",
+        "card_name": "Bruno Mannheim",
         "number": 104,
         "shape": "normal",
         "set": "DC3",
-        "position": "187"
+        "position": "128"
     },
     {
         "card_name": "Azrael",
@@ -175,11 +175,11 @@
         "position": "232"
     },
     {
-        "card_name": "Bracelets of Submission",
+        "card_name": "Captain Atom",
         "number": 7,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
-        "position": "324"
+        "position": "274"
     },
     {
         "card_name": "Bumblebee",
@@ -189,11 +189,11 @@
         "position": "198"
     },
     {
-        "card_name": "Bruno Mannheim",
+        "card_name": "Catwoman",
         "number": 105,
         "shape": "normal",
         "set": "DC3",
-        "position": "128"
+        "position": "199"
     },
     {
         "card_name": "Black Canary",
@@ -210,11 +210,11 @@
         "position": "205"
     },
     {
-        "card_name": "Captain Atom",
+        "card_name": "Captain Marvel",
         "number": 8,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DC3",
-        "position": "274"
+        "position": "331"
     },
     {
         "card_name": "Call the Metal Men",
@@ -224,11 +224,11 @@
         "position": "270"
     },
     {
-        "card_name": "Catwoman",
+        "card_name": "Chemo Unleashed",
         "number": 106,
         "shape": "normal",
         "set": "DC3",
-        "position": "199"
+        "position": "263"
     },
     {
         "card_name": "Blue Devil",
@@ -245,11 +245,11 @@
         "position": "129"
     },
     {
-        "card_name": "Captain Marvel",
+        "card_name": "Cast Through Time",
         "number": 9,
         "shape": "normal",
         "set": "DC3",
-        "position": "331"
+        "position": "344"
     },
     {
         "card_name": "Captain Cold",
@@ -259,11 +259,11 @@
         "position": "151"
     },
     {
-        "card_name": "Chemo Unleashed",
+        "card_name": "Darkseid",
         "number": 107,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "DC3",
-        "position": "263"
+        "position": "317"
     },
     {
         "card_name": "Canary Cry",
@@ -280,11 +280,11 @@
         "position": "333"
     },
     {
-        "card_name": "Cast Through Time",
+        "card_name": "Commisioner Gordon",
         "number": 10,
         "shape": "normal",
         "set": "DC3",
-        "position": "344"
+        "position": "10"
     },
     {
         "card_name": "Circe",
@@ -294,11 +294,11 @@
         "position": "337"
     },
     {
-        "card_name": "Darkseid",
+        "card_name": "Deadman",
         "number": 108,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "DC3",
-        "position": "317"
+        "position": "31"
     },
     {
         "card_name": "Crazy Jane",
@@ -315,11 +315,11 @@
         "position": "265"
     },
     {
-        "card_name": "Commisioner Gordon",
+        "card_name": "Day of Vengeance",
         "number": 11,
-        "shape": "normal",
+        "shape": "saga",
         "set": "DC3",
-        "position": "10"
+        "position": "200"
     },
     {
         "card_name": "Clayface",
@@ -329,11 +329,11 @@
         "position": "258"
     },
     {
-        "card_name": "Deadman",
+        "card_name": "Deadshot",
         "number": 109,
         "shape": "normal",
         "set": "DC3",
-        "position": "31"
+        "position": "140"
     },
     {
         "card_name": "Damage",
@@ -350,11 +350,11 @@
         "position": "259"
     },
     {
-        "card_name": "Day of Vengeance",
+        "card_name": "Death of Superman",
         "number": 12,
         "shape": "saga",
         "set": "DC3",
-        "position": "200"
+        "position": "17"
     },
     {
         "card_name": "Contingency Plan",
@@ -364,11 +364,11 @@
         "position": "173"
     },
     {
-        "card_name": "Deadshot",
+        "card_name": "Death in the Family",
         "number": 110,
         "shape": "normal",
         "set": "DC3",
-        "position": "140"
+        "position": "142"
     },
     {
         "card_name": "Devouring Blaze",
@@ -385,11 +385,11 @@
         "position": "343"
     },
     {
-        "card_name": "Death of Superman",
+        "card_name": "Deflect Bullets",
         "number": 13,
-        "shape": "saga",
+        "shape": "normal",
         "set": "DC3",
-        "position": "17"
+        "position": "324"
     },
     {
         "card_name": "Crack the Case",
@@ -399,11 +399,11 @@
         "position": "28"
     },
     {
-        "card_name": "Death in the Family",
+        "card_name": "Deathstroke",
         "number": 111,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
-        "position": "142"
+        "position": "36"
     },
     {
         "card_name": "Final Detonation",
@@ -434,11 +434,11 @@
         "position": "347"
     },
     {
-        "card_name": "Deathstroke",
+        "card_name": "Eclipso",
         "number": 112,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DC3",
-        "position": "36"
+        "position": "272"
     },
     {
         "card_name": "Firestorm",
@@ -469,11 +469,11 @@
         "position": "163"
     },
     {
-        "card_name": "Eclipso",
+        "card_name": "Final Crisis",
         "number": 113,
-        "shape": "normal",
+        "shape": "saga",
         "set": "DC3",
-        "position": "272"
+        "position": "203"
     },
     {
         "card_name": "The Flash",
@@ -504,11 +504,11 @@
         "position": "169"
     },
     {
-        "card_name": "Final Crisis",
+        "card_name": "Fury of Apokolips",
         "number": 114,
-        "shape": "saga",
+        "shape": "normal",
         "set": "DC3",
-        "position": "203"
+        "position": "311"
     },
     {
         "card_name": "Flash of Two Worlds",
@@ -539,11 +539,11 @@
         "position": "22"
     },
     {
-        "card_name": "Fury of Apokolips",
+        "card_name": "General Zod",
         "number": 115,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
-        "position": "311"
+        "position": "37"
     },
     {
         "card_name": "The Fun in Funeral",
@@ -574,11 +574,11 @@
         "position": "210"
     },
     {
-        "card_name": "General Zod",
+        "card_name": "The Judas Contract",
         "number": 116,
-        "shape": "adventure",
+        "shape": "saga",
         "set": "DC3",
-        "position": "37"
+        "position": "202"
     },
     {
         "card_name": "Harley Quinn",
@@ -609,11 +609,11 @@
         "position": "201"
     },
     {
-        "card_name": "The Judas Contract",
+        "card_name": "Katana",
         "number": 117,
-        "shape": "saga",
+        "shape": "normal",
         "set": "DC3",
-        "position": "202"
+        "position": "125"
     },
     {
         "card_name": "Heat Vision",
@@ -644,11 +644,11 @@
         "position": "21"
     },
     {
-        "card_name": "Katana",
+        "card_name": "The Killing Joke",
         "number": 118,
         "shape": "normal",
         "set": "DC3",
-        "position": "125"
+        "position": "212"
     },
     {
         "card_name": "Hellblazer",
@@ -742,11 +742,11 @@
         "position": "8"
     },
     {
-        "card_name": "Madame Xanadu",
+        "card_name": "Man-Bat",
         "number": 72,
         "shape": "normal",
         "set": "DC3",
-        "position": "182"
+        "position": "328"
     },
     {
         "card_name": "Lobo",
@@ -777,11 +777,11 @@
         "position": "18"
     },
     {
-        "card_name": "Man-Bat",
+        "card_name": "Martian Manhunter",
         "number": 73,
         "shape": "normal",
         "set": "DC3",
-        "position": "328"
+        "position": "24"
     },
     {
         "card_name": "Lobo's Spacehog",
@@ -812,11 +812,11 @@
         "position": "335"
     },
     {
-        "card_name": "Martian Manhunter",
+        "card_name": "Metron",
         "number": 74,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "DC3",
-        "position": "24"
+        "position": "320"
     },
     {
         "card_name": "Maxwell Lord",
@@ -847,11 +847,11 @@
         "position": "166"
     },
     {
-        "card_name": "Metron",
+        "card_name": "Miss Martian",
         "number": 75,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "DC3",
-        "position": "320"
+        "position": "185"
     },
     {
         "card_name": "Mongul",
@@ -882,11 +882,11 @@
         "position": "123"
     },
     {
-        "card_name": "Miss Martian",
+        "card_name": "Mr Terrific",
         "number": 76,
         "shape": "normal",
         "set": "DC3",
-        "position": "185"
+        "position": "25"
     },
     {
         "card_name": "Neron",
@@ -917,11 +917,11 @@
         "position": "286"
     },
     {
-        "card_name": "Mr Terrific",
+        "card_name": "Mr. Freeze",
         "number": 77,
         "shape": "normal",
         "set": "DC3",
-        "position": "25"
+        "position": "287"
     },
     {
         "card_name": "Nightshade",
@@ -952,11 +952,11 @@
         "position": "4"
     },
     {
-        "card_name": "Mr. Freeze",
+        "card_name": "Nightmaster",
         "number": 78,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
-        "position": "287"
+        "position": "183"
     },
     {
         "card_name": "Obsidian",
@@ -987,11 +987,11 @@
         "position": "190"
     },
     {
-        "card_name": "Nightmaster",
+        "card_name": "Nightwing",
         "number": 79,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DC3",
-        "position": "183"
+        "position": "69"
     },
     {
         "card_name": "The Penguin",
@@ -1022,11 +1022,11 @@
         "position": "349"
     },
     {
-        "card_name": "Nightwing",
+        "card_name": "Oracle",
         "number": 80,
         "shape": "normal",
         "set": "DC3",
-        "position": "69"
+        "position": "355"
     },
     {
         "card_name": "The Phantom Stranger",
@@ -1057,11 +1057,11 @@
         "position": "269"
     },
     {
-        "card_name": "Oracle",
+        "card_name": "Oracle's Sight",
         "number": 81,
         "shape": "normal",
         "set": "DC3",
-        "position": "355"
+        "position": "29"
     },
     {
         "card_name": "Purpose From Beyond",
@@ -1092,11 +1092,11 @@
         "position": "329"
     },
     {
-        "card_name": "Oracle's Sight",
+        "card_name": "Peer Through The Multiverse",
         "number": 82,
         "shape": "normal",
         "set": "DC3",
-        "position": "29"
+        "position": "30"
     },
     {
         "card_name": "Ravager",
@@ -1127,11 +1127,11 @@
         "position": "14"
     },
     {
-        "card_name": "Peer Through The Multiverse",
+        "card_name": "Pirtnac",
         "number": 83,
         "shape": "normal",
         "set": "DC3",
-        "position": "30"
+        "position": "27"
     },
     {
         "card_name": "Raven",
@@ -1162,11 +1162,11 @@
         "position": "2"
     },
     {
-        "card_name": "Pirtnac",
+        "card_name": "Plastic Man",
         "number": 84,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
-        "position": "27"
+        "position": "275"
     },
     {
         "card_name": "Red Hood",
@@ -1197,11 +1197,11 @@
         "position": "261"
     },
     {
-        "card_name": "Plastic Man",
+        "card_name": "Power of the Worlogog",
         "number": 85,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DC3",
-        "position": "275"
+        "position": "314"
     },
     {
         "card_name": "Resurrection Man",
@@ -1232,11 +1232,11 @@
         "position": "290"
     },
     {
-        "card_name": "Power of the Worlogog",
+        "card_name": "The Question",
         "number": 86,
         "shape": "normal",
         "set": "DC3",
-        "position": "314"
+        "position": "222"
     },
     {
         "card_name": "Robin",
@@ -1267,11 +1267,11 @@
         "position": "5"
     },
     {
-        "card_name": "The Question",
+        "card_name": "Red Robin",
         "number": 87,
         "shape": "normal",
         "set": "DC3",
-        "position": "222"
+        "position": "145"
     },
     {
         "card_name": "Sandman",
@@ -1302,11 +1302,11 @@
         "position": "12"
     },
     {
-        "card_name": "Red Robin",
+        "card_name": "The Riddler",
         "number": 88,
         "shape": "normal",
         "set": "DC3",
-        "position": "145"
+        "position": "209"
     },
     {
         "card_name": "Scarecrow",
@@ -1337,11 +1337,11 @@
         "position": "188"
     },
     {
-        "card_name": "The Riddler",
+        "card_name": "Rip Hunter",
         "number": 89,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "DC3",
-        "position": "209"
+        "position": "23"
     },
     {
         "card_name": "Signal",
@@ -1372,11 +1372,11 @@
         "position": "6"
     },
     {
-        "card_name": "Rip Hunter",
+        "card_name": "Spoiler",
         "number": 90,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "DC3",
-        "position": "23"
+        "position": "176"
     },
     {
         "card_name": "Sinestro",
@@ -1407,11 +1407,11 @@
         "position": "11"
     },
     {
-        "card_name": "Spoiler",
+        "card_name": "Strange Adventures",
         "number": 91,
         "shape": "normal",
         "set": "DC3",
-        "position": "176"
+        "position": "26"
     },
     {
         "card_name": "Solomon Grundy",
@@ -1442,11 +1442,11 @@
         "position": "16"
     },
     {
-        "card_name": "Strange Adventures",
+        "card_name": "Ted Kord",
         "number": 92,
         "shape": "normal",
         "set": "DC3",
-        "position": "26"
+        "position": "19"
     },
     {
         "card_name": "Talia al Ghul",
@@ -1477,11 +1477,11 @@
         "position": "15"
     },
     {
-        "card_name": "Ted Kord",
+        "card_name": "Telepathic Interference",
         "number": 93,
         "shape": "normal",
         "set": "DC3",
-        "position": "19"
+        "position": "334"
     },
     {
         "card_name": "Teachings of the Crime Bible",
@@ -1512,11 +1512,11 @@
         "position": "291"
     },
     {
-        "card_name": "Telepathic Interference",
+        "card_name": "Tempest",
         "number": 94,
         "shape": "normal",
         "set": "DC3",
-        "position": "334"
+        "position": "294"
     },
     {
         "card_name": "Time Runs Out",
@@ -1547,11 +1547,11 @@
         "position": "7"
     },
     {
-        "card_name": "Tempest",
+        "card_name": "Trident of Neptune",
         "number": 95,
         "shape": "normal",
         "set": "DC3",
-        "position": "294"
+        "position": "327"
     },
     {
         "card_name": "Trigon",
@@ -1582,11 +1582,11 @@
         "position": "189"
     },
     {
-        "card_name": "Trident of Neptune",
+        "card_name": "Ultra-Humanite",
         "number": 96,
         "shape": "normal",
         "set": "DC3",
-        "position": "327"
+        "position": "224"
     },
     {
         "card_name": "Two-Face",
@@ -1617,11 +1617,11 @@
         "position": "316"
     },
     {
-        "card_name": "Ultra-Humanite",
+        "card_name": "Wonder Twins",
         "number": 97,
         "shape": "normal",
         "set": "DC3",
-        "position": "224"
+        "position": "223"
     },
     {
         "card_name": "Utter Betrayal",
@@ -1652,11 +1652,11 @@
         "position": "3"
     },
     {
-        "card_name": "Wonder Twins",
+        "card_name": "Xanadu's Fortune",
         "number": 98,
         "shape": "normal",
         "set": "DC3",
-        "position": "223"
+        "position": "182"
     },
     {
         "card_name": "Veronica Cale",

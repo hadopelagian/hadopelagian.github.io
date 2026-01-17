@@ -105,7 +105,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/10.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/17.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/19.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Creature — Alien Shapeshifter",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/27.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Spirit Performer",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/31.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Legendary Creature — Kryptonian Soldier",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/37.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Not Alien",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/67.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/69.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Samurai",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/125.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/128.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/140.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/142.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/145.png"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/159.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/167.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/176.png"
 			}
@@ -1794,7 +1794,7 @@
 			"name": "Thunder and Lightning",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Legendary Enchantment Creature — Human",
+			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/179.png"
@@ -1821,11 +1821,11 @@
 			}
 		},
 		{
-			"name": "Madame Xanadu",
+			"name": "Xanadu's Fortune",
 			"rarity": "special",
-			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "72",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Knight",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/183.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Alien Shapeshifter",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/185.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/187.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/199.png"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/200.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/202.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/203.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/209.png"
 			}
@@ -2121,11 +2121,11 @@
 			}
 		},
 		{
-			"name": "Anti-Monitor's Wrath",
+			"name": "The Killing Joke",
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/212.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/222.png"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Alien Shapeshifter",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/223.png"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Legendary Creature — Ape Scientist",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/224.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/263.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Enchantment Creature — Avatar",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/272.png"
 			}
@@ -2745,7 +2745,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Creature — Human Mutant",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/274.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Mutant",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/275.png"
 			}
@@ -2875,7 +2875,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/287.png"
 			}
@@ -2945,7 +2945,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Merfolk Wizard",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/294.png"
 			}
@@ -3115,7 +3115,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/311.png"
 			}
@@ -3145,7 +3145,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/314.png"
 			}
@@ -3175,7 +3175,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Legendary Planeswalker — Uxas",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/317.png"
 			}
@@ -3205,7 +3205,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Metron",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/320.png"
 			}
@@ -3241,11 +3241,11 @@
 			}
 		},
 		{
-			"name": "Bracelets of Submission",
+			"name": "Deflect Bullets",
 			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "7",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/324.png"
 			}
@@ -3275,7 +3275,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/327.png"
 			}
@@ -3285,7 +3285,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Bat Horror",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/328.png"
 			}
@@ -3315,7 +3315,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Demigod Warrior",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/331.png"
 			}
@@ -3345,7 +3345,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/334.png"
 			}
@@ -3361,11 +3361,11 @@
 			}
 		},
 		{
-			"name": "Armory of the Amazons",
+			"name": "Amazons Attack",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "5",
+			"type": "Sorcery",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/336.png"
 			}
@@ -3445,7 +3445,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/344.png"
 			}
@@ -3535,7 +3535,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/353.png"
 			}
@@ -3543,7 +3543,7 @@
 		{
 			"name": "Sinestro",
 			"rarity": "special",
-			"mana_cost": "{4}{B}{B}",
+			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Legendary Creature — Alien Warlock",
 			"collector_number": "139",
 			"image_uris": {
@@ -3555,7 +3555,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/355.png"
 			}
@@ -4115,7 +4115,7 @@
 	1 Thunder and Lightning
 	1 Lazarus Rebirth
 	1 Jade
-	1 Madame Xanadu
+	1 Xanadu's Fortune
 	1 Nightmaster
 	1 Cheetah
 	1 Miss Martian
@@ -4145,7 +4145,7 @@
 	1 The Riddler
 	1 Fate's Will
 	1 Utter Betrayal
-	1 Anti-Monitor's Wrath
+	1 The Killing Joke
 	1 Two-Face
 	1 Gorilla Grodd
 	1 The Forever People
@@ -4257,7 +4257,7 @@
 	1 Brainiac
 	1 Ganthet
 	1 Swamp Thing
-	1 Bracelets of Submission
+	1 Deflect Bullets
 	1 Trident of Lucifer
 	1 Astro-Harness
 	1 Trident of Neptune
@@ -4269,7 +4269,7 @@
 	1 Bounty of Atlantis
 	1 Telepathic Interference
 	1 Jericho
-	1 Armory of the Amazons
+	1 Amazons Attack
 	1 Circe
 	1 Atom-Smasher
 	1 Blue Devil
