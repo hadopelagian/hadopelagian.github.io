@@ -1,4 +1,53 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Deadman
+rules_text: You may have Deadman enter as a copy of any creature card in a graveyard, except his name is Deadman. When you do, exile that card, and you lose life equal to its mana value. => You may have Deadman enter as a copy of any creature or planeswalker card in a graveyard, except his name is Deadman. When you do, exile that card, and you lose life equal to its mana value.
+
+Robotman
+rules_text: Robotman gets +1/+1 for each artifact you control.
+{T}, Sacrifice an artifact: Return target artifact card from your graveyard to the battlefield tapped. Activate only as a sorcery. => Robotman gets +1/+1 for each artifact you control.
+{T}, Sacrifice another artifact: Return target artifact card from your graveyard to the battlefield tapped. Activate only as a sorcery.
+
+Lazarus Rebirth
+rules_text: Return target creature card from your graveyard to the battlefield. You may pay life equal to its mana value. If you don't, sacrifice it. => Return target creature or planeswalker card from your graveyard to the battlefield. You may pay life equal to its mana value. If you don't, sacrifice it.
+
+The Judas Contract
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player sacrifices a creature.
+III — Search your library for a card and put it into your hand, then shuffle.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Each player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player sacrifices a creature.
+III — Search your library for a card and put it into your hand, then shuffle.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Each player sacrifices a creature.
+Search your library for a card and put it into your hand, then shuffle.
+​
+
+Arkham Asylum
+rules_text: Arkham Asylum enters tapped unless you control a basic land.
+{T}: Add {B}.
+{1}{B}, {T}, Pay 3 life, Sacrifice Arkham Asylum: Search your library for a card and put it into your hand. => Arkham Asylum enters tapped unless you control a basic land.
+{T}: Add {B}.
+{1}{B}, {T}, Pay 3 life, Sacrifice Arkham Asylum: Search your library for a card and put it into your hand, then shuffle.
+
+Captain Atom
+rules_text: Flying => Flying
+Whenever Captain Atom attacks, destroy target nonland permanent.
+
+Purpose From Beyond
+rules_text: This spell costs {1} less to cast for each card type among cards in your graveyard.
+Return target creature card from your graveyard to the battlefield. => This spell costs {1} less to cast for each card type among cards in your graveyard.
+Return target creature or planeswalker card from your graveyard to the battlefield.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 
