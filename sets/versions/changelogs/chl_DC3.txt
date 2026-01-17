@@ -1,4 +1,78 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Food added.
+Shark added.
+
+
+Demigod
+
+Soldier
+
+God
+
+God's Wrath
+
+Demigod
+
+Clue
+
+Drone
+
+Construct
+
+T-Sphere
+
+Copy
+
+Octopus
+
+Blood
+
+Demon Mutant
+
+Alien
+
+Minion Army
+
+Elemental
+
+Demon
+
+Treasure
+
+Elemental
+
+Devil
+
+Junk
+
+Construct
+
+Construct
+
+Beast
+
+Ape
+
+Plant
+
+Everywhere
+
+Assassin
+
+Ninja
+
+Starfish
+
+Fish
+
+Robot
+
+Hero
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

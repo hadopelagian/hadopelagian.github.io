@@ -7426,7 +7426,7 @@
             "artist": "Todd Nauck",
             "alias": "",
             "position": "359",
-            "notes": ""
+            "notes": "!related Hippolyta;Queen Nubia of Themiscyra;Artemis of Bana-Mighdall;Trial of the Amazons;Themiscyra"
         },
         {
             "card_name": "Soldier",
@@ -7446,7 +7446,7 @@
             "artist": "Michael Lark",
             "alias": "",
             "position": "360",
-            "notes": ""
+            "notes": "!related Steve Trevor;Commisioner Gordon"
         },
         {
             "card_name": "God",
@@ -7466,7 +7466,7 @@
             "artist": "Jim Starlin",
             "alias": "",
             "position": "361",
-            "notes": ""
+            "notes": "!related Highfather"
         },
         {
             "card_name": "God's Wrath",
@@ -7486,7 +7486,7 @@
             "artist": "Bernie Wrightson",
             "alias": "",
             "position": "362",
-            "notes": ""
+            "notes": "!related Day of Vengeance"
         },
         {
             "card_name": "Demigod",
@@ -7506,14 +7506,14 @@
             "artist": "Brad Walker",
             "alias": "",
             "position": "363",
-            "notes": ""
+            "notes": "!related The Wizard Shazam"
         },
         {
             "card_name": "Clue",
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Clue",
-            "number": 28,
+            "number": 29,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this artifact: Draw a card.",
@@ -7526,7 +7526,7 @@
             "artist": "Jason Fabok",
             "alias": "",
             "position": "364",
-            "notes": ""
+            "notes": "!related Lois Lane;Peacemaker // Peace At Any Cost;Blue Beetle;Crack the Case;Detective Chimp;Nightwing;The Question;Spoiler;Batgirl;Robin;Batman;Challengers of the Unknown;We Are Robin;The Batcave"
         },
         {
             "card_name": "Drone",
@@ -7546,14 +7546,14 @@
             "artist": "Gary Frank",
             "alias": "",
             "position": "365",
-            "notes": ""
+            "notes": "!related Braniac"
         },
         {
             "card_name": "Construct",
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact Creature \u2014 Construct",
-            "number": 29,
+            "number": 30,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This token gets +1/+1 for each artifact you control.",
@@ -7566,14 +7566,14 @@
             "artist": "Philip Tan",
             "alias": "",
             "position": "366",
-            "notes": ""
+            "notes": "!related Call the Metal Men"
         },
         {
             "card_name": "T-Sphere",
             "color": "U",
             "rarity": "cube",
             "type": "Token Legendary Artifact",
-            "number": 12,
+            "number": 13,
             "color_identity": "U",
             "cost": "",
             "rules_text": "{T}: Draw a card.",
@@ -7586,7 +7586,7 @@
             "artist": "J.G. Jones",
             "alias": "",
             "position": "367",
-            "notes": ""
+            "notes": "!related Mr Terrific"
         },
         {
             "card_name": "Copy",
@@ -7606,7 +7606,7 @@
             "artist": "V. Ken Marion",
             "alias": "",
             "position": "368",
-            "notes": ""
+            "notes": "!related Absolute Power;Kyle Rayner;Project Cadmus;Sojourner Mullein;Flashpoint"
         },
         {
             "card_name": "Octopus",
@@ -7626,14 +7626,14 @@
             "artist": "Joshua Middleton",
             "alias": "",
             "position": "369",
-            "notes": ""
+            "notes": "!related Tempest;Bounty of Atlantis"
         },
         {
             "card_name": "Blood",
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Blood",
-            "number": 27,
+            "number": 28,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.",
@@ -7646,14 +7646,14 @@
             "artist": "Andrea Sorrentino",
             "alias": "",
             "position": "370",
-            "notes": ""
+            "notes": "!related Batwoman"
         },
         {
             "card_name": "Demon Mutant",
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demon Mutant",
-            "number": 16,
+            "number": 17,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Flying",
@@ -7666,14 +7666,14 @@
             "artist": "Dan Mora",
             "alias": "",
             "position": "371",
-            "notes": ""
+            "notes": "!related Darkseid"
         },
         {
             "card_name": "Alien",
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Alien",
-            "number": 13,
+            "number": 14,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7686,14 +7686,14 @@
             "artist": "Will Conrad",
             "alias": "",
             "position": "372",
-            "notes": ""
+            "notes": "!related Mongul;Invasion!"
         },
         {
             "card_name": "Minion Army",
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Minion Army",
-            "number": 18,
+            "number": 19,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7706,14 +7706,14 @@
             "artist": "Ty Templeton",
             "alias": "",
             "position": "373",
-            "notes": ""
+            "notes": "!related Maxwell Lord;The Penguin;Veronica Cale"
         },
         {
             "card_name": "Elemental",
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Elemental",
-            "number": 17,
+            "number": 18,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7726,14 +7726,14 @@
             "artist": "Brett Booth",
             "alias": "",
             "position": "374",
-            "notes": ""
+            "notes": "!related Raven"
         },
         {
             "card_name": "Demon",
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Demon",
-            "number": 15,
+            "number": 16,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -7746,14 +7746,14 @@
             "artist": "Guillem March",
             "alias": "",
             "position": "375",
-            "notes": ""
+            "notes": "!related Trigon"
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 32,
+            "number": 34,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -7766,14 +7766,14 @@
             "artist": "Ken Lashley",
             "alias": "",
             "position": "376",
-            "notes": ""
+            "notes": "!related Catwoman;Maxwell Lord;Mongul;The Penguin;Azrael;Black Canary;Flash of Two Worlds;Harley Quinn;Red Tornado // Power of Ulthoon;Speedy;Black Manta"
         },
         {
             "card_name": "Elemental",
             "color": "R",
             "rarity": "cube",
             "type": "Token Creature \u2014 Elemental",
-            "number": 20,
+            "number": 22,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Haste",
@@ -7786,14 +7786,14 @@
             "artist": "Pete Woods",
             "alias": "",
             "position": "377",
-            "notes": ""
+            "notes": "!related Max Mercury;Firestorm"
         },
         {
             "card_name": "Devil",
             "color": "R",
             "rarity": "cube",
             "type": "Token Creature \u2014 Devil",
-            "number": 19,
+            "number": 21,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Haste",
@@ -7806,14 +7806,14 @@
             "artist": "Tony S. Daniel",
             "alias": "",
             "position": "378",
-            "notes": ""
+            "notes": "!related Trident of Lucifer"
         },
         {
             "card_name": "Junk",
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact \u2014 Junk",
-            "number": 30,
+            "number": 32,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.",
@@ -7826,14 +7826,14 @@
             "artist": "Jonboy Meyers",
             "alias": "",
             "position": "379",
-            "notes": ""
+            "notes": "!related Sea Salvage;Mister Mxyzptlk"
         },
         {
             "card_name": "Construct",
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Construct",
-            "number": 23,
+            "number": 25,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -7846,14 +7846,14 @@
             "artist": "Howard Porter",
             "alias": "",
             "position": "380",
-            "notes": ""
+            "notes": "!related John Stewart"
         },
         {
             "card_name": "Construct",
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Construct",
-            "number": 24,
+            "number": 26,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -7866,14 +7866,14 @@
             "artist": "Chris Campana",
             "alias": "",
             "position": "381",
-            "notes": ""
+            "notes": "!related John Stewart;Ganthet;Green Lantern;Jade;Alan Scott // Starheart's Shine;Kilowog;Guy Gardener"
         },
         {
             "card_name": "Beast",
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Beast",
-            "number": 22,
+            "number": 24,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -7886,14 +7886,14 @@
             "artist": "Mikel Jan\u00edn",
             "alias": "",
             "position": "382",
-            "notes": ""
+            "notes": "!related Beast World"
         },
         {
             "card_name": "Ape",
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Ape",
-            "number": 21,
+            "number": 23,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -7906,14 +7906,14 @@
             "artist": "Clayton Henry",
             "alias": "",
             "position": "383",
-            "notes": ""
+            "notes": "!related Gorilla City;Gorilla Grodd"
         },
         {
             "card_name": "Plant",
             "color": "G",
             "rarity": "cube",
             "type": "Token Creature \u2014 Plant",
-            "number": 25,
+            "number": 27,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -7926,14 +7926,14 @@
             "artist": "Dan Mora",
             "alias": "",
             "position": "384",
-            "notes": ""
+            "notes": "!related Swamp Thing;Ivy's Bloom"
         },
         {
             "card_name": "Everywhere",
             "color": "",
             "rarity": "cube",
             "type": "Token Land",
-            "number": 33,
+            "number": 35,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land is a Plains, Island, Swamp, Mountain, and Forest. [i]({T}: Add {W}, {U}, {B}, {R} or {G}.)[/i]",
@@ -7946,14 +7946,14 @@
             "artist": "",
             "alias": "",
             "position": "385",
-            "notes": ""
+            "notes": "!related Jessica Cruz // Lantern's Light"
         },
         {
             "card_name": "Assassin",
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Assassin",
-            "number": 14,
+            "number": 15,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Deathtouch, lifelink",
@@ -7966,14 +7966,14 @@
             "artist": "Eddy Barrows",
             "alias": "",
             "position": "386",
-            "notes": ""
+            "notes": "!related Night of the Owls"
         },
         {
             "card_name": "Ninja",
             "color": "B",
             "rarity": "cube",
             "type": "Token Creature \u2014 Ninja",
-            "number": 26,
+            "number": 20,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Menace\nWhenever this creature deals combat damage to a player, you draw a card and you lose 1 life.",
@@ -7986,14 +7986,14 @@
             "artist": "Roger Cruz",
             "alias": "",
             "position": "387",
-            "notes": ""
+            "notes": "!related Ra's al Ghul"
         },
         {
             "card_name": "Starfish",
             "color": "U",
             "rarity": "cube",
             "type": "Token Creature \u2014 Starfish",
-            "number": 11,
+            "number": 12,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -8006,7 +8006,7 @@
             "artist": "David Finch",
             "alias": "",
             "position": "388",
-            "notes": ""
+            "notes": "!related Starro the Star-Conqueror"
         },
         {
             "card_name": "Fish",
@@ -8026,14 +8026,14 @@
             "artist": "Kael Ngu",
             "alias": "",
             "position": "389",
-            "notes": ""
+            "notes": "!related Aquaman"
         },
         {
             "card_name": "Robot",
             "color": "",
             "rarity": "cube",
             "type": "Token Artifact Creature \u2014 Robot",
-            "number": 31,
+            "number": 33,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -8046,7 +8046,7 @@
             "artist": "Jos\u00e9 Ladr\u00f6nn",
             "alias": "",
             "position": "390",
-            "notes": ""
+            "notes": "!related The OMAC Project;Brother Eye"
         },
         {
             "card_name": "Hero",
@@ -8066,7 +8066,7 @@
             "artist": "Joe Quinones",
             "alias": "",
             "position": "391",
-            "notes": ""
+            "notes": "!related Dial H for Hero"
         },
         {
             "card_name": "Themiscyra",
@@ -8087,7 +8087,47 @@
             "alias": "",
             "position": "392",
             "notes": ""
+        },
+        {
+            "card_name": "Food",
+            "color": "",
+            "rarity": "cube",
+            "type": "Token Artifact \u2014 Food",
+            "number": 31,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Patrick Gleason",
+            "alias": "",
+            "position": "393",
+            "notes": "!related Feeding Frenzy"
+        },
+        {
+            "card_name": "Shark",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Token Creature \u2014 Shark",
+            "number": 11,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "DC3",
+            "loyalty": "",
+            "artist": "Tim Seeley",
+            "alias": "",
+            "position": "394",
+            "notes": "!related King Shark // Nanaue's Call"
         }
     ],
-    "version": 12
+    "version": 13
 }
