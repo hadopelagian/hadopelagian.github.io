@@ -3234,7 +3234,7 @@
 			"name": "Swamp Thing",
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature — Levi",
+			"type": "Legendary Planeswalker — Levi",
 			"collector_number": "244",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/323.png"
