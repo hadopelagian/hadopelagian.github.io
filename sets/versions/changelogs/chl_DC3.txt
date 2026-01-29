@@ -1,4 +1,268 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+Elemental removed.
+
+Superman
+cost: {5}{W}{W} => {4}{W}{W}
+pt: 7/7 => 5/5
+
+Death of Superman
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature loses all abilities until end of turn. Destroy it.
+Search your library for a creature card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+Return target creature card from your graveyard to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature loses all abilities until end of turn. Destroy it.
+II — Search your library for a creature card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+III — Return target creature card from your graveyard to the battlefield.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature loses all abilities until end of turn. Destroy it.
+Search your library for a creature card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+Return target creature card from your graveyard to the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature loses all abilities until end of turn. Destroy it.
+II — Search your library for a creature card with mana value 3 or less, reveal it, put it into your hand, then shuffle.
+III — Return target creature card from your graveyard to the battlefield.
+
+The Atom
+rules_text: This creature can't be blocked.
+Whenever The Atom deals combat damage to a player, he phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Whenever The Atom phases in, draw a card, then discard a card => The Atom can't be blocked.
+Whenever The Atom deals combat damage to a player, he phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Whenever The Atom phases in, draw a card, then discard a card
+
+General Zod
+type: Legendary Creature — Kryptonian Soldier => Legendary Creature — Alien Soldier
+rules_text: Flying
+Ward—Discard a card => Flying
+Ward—Sacrifice a creature
+
+Neron
+cost: {5}{B}{B}{B} => {4}{B}{B}{B}
+
+Mera
+cost: {3}{G} => {2}{G}
+pt: 4/4 => 2/2
+
+Green Lantern
+rules_text: Ward {2}
+Whenever Green Lantern enters or attacks, create two 1/1 green Construct creature tokens.
+Creature tokens you control get +1/+1. => Trample
+Whenever Green Lantern enters or attacks, create two 1/1 green Construct creature tokens.
+Creature tokens you control get +1/+1.
+
+The Batmobile
+rules_text: Play with the top card of your library revealed.
+As long as The Batmobile is a creature, you may play lands and cast spells from the top of your library.
+Sacrifice an artifact: The Batmobile becomes an artifact creature until end of turn. => You may look at the top card of your library any time.
+As long as The Batmobile is a creature, you may play lands and cast noncreature spells from the top of your library.
+Crew 3
+
+The Flash
+rules_text: Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+Haste
+Whenever The Flash deals combat damage to a player, discard any number of cards, then draw that many cards. Put a +1/+1 counter on The Flash for each card discarded this way. => Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+Haste, menace
+Whenever The Flash deals combat damage to a player, discard any number of cards, then draw that many cards. Put a +1/+1 counter on The Flash for each card discarded this way.
+
+Brother Eye
+rules_text: When Brother Eye enters, destroy all legendary creatures.
+At the beginning of your end step, create two 4/4 colorless Robot artifact creature tokens.
+{4}, Discard Brother Eye: Create a 4/4 colorless Robot artifact creature token. => When Brother Eye enters, destroy all legendary creatures.
+At the beginning of your end step, create two 4/4 colorless Robot artifact creature tokens.
+Artifactcycling {3} [i]({3}, Discard this card: Search your library for an Artifact card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Zero Hour: Crisis in Time!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return up to two target other nonland permanents to their owner's hands.
+Draw two cards, then discard a card.
+You may exile six cards from your graveyard. If you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target other nonland permanents to their owner's hands.
+II — Draw two cards, then discard a card.
+III — You may exile six cards from your graveyard. If you do, take an extra turn after this one.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Return up to two target other nonland permanents to their owner's hands.
+Draw two cards, then discard a card.
+You may exile six cards from your graveyard. If you do, take an extra turn after this one. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return up to two target other nonland permanents to their owner's hands.
+II — Draw two cards, then discard a card.
+III — You may exile six cards from your graveyard. If you do, take an extra turn after this one.
+
+Wally West
+rules_text: Haste
+When Wally West enters, discard up to three cards, then draw three cards. For each card type among cards discarded this way, Wally West deals 1 damage to any target. => Haste
+When Wally West enters, discard up to three cards, then draw that many cards. When you do, for each card type among cards discarded this way, Wally West deals 1 damage to any target.
+
+Day of Vengeance
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+You may have each player draw a card.
+Create God's Wrath, a legendary 6/6 Avatar creature token with flying and vigilance. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+II — You may have each player draw a card.
+III — Create God's Wrath, a legendary 6/6 Avatar creature token with flying and vigilance.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy all creatures.
+You may have each player draw a card.
+Create God's Wrath, a legendary 6/6 Avatar creature token with flying and vigilance. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures.
+II — You may have each player draw a card.
+III — Create God's Wrath, a legendary 6/6 Avatar creature token with flying and vigilance.
+
+Beast World
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Destroy up to one target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Put two +1/+1 counters on each creature you control. 
+​
+
+The Forever People
+rules_text: When The Forever People enter, choose two —
+• Target player gains 7 life.
+• Put target noncreature permanent on top of its owner's library.
+• Target player shuffles their graveyard into their library.
+• Search your library for a creature card, reveal it, put it into your hand, then shuffle. => When The Forever People enter, choose three. You may choose the same mode more than once.
+• Put two +1/+1 counters on target creature.
+• Return target permanent card from your graveyard to your hand.
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+pt: 5/5 => 2/2
+
+Invasion!
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact or enchantment.
+Create two 1/1 black Alien creature tokens.
+Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target card from your graveyard to your hand.
+II — Create two 1/1 black Alien creature tokens.
+III — Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Destroy up to one target artifact or enchantment.
+Create two 1/1 black Alien creature tokens.
+Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Return target card from your graveyard to your hand.
+II — Create two 1/1 black Alien creature tokens.
+III — Put a +1/+1 counter, a flying counter and a trample counter on up to one target creature.
+
+Raven
+rules_text: Whenever you cast a black spell, put a +1/+1 counter on Raven, choose one, then you lose 1 life for each counter on Raven.
+• Draw a card.
+• Target creature gets -2/-2 until end of turn.
+• Create a 2/2 black Elemental creature token. => Whenever you cast a black spell, put a +1/+1 counter on Raven, choose one, then you lose 1 life for each counter on Raven.
+• Draw a card.
+• Target creature gets -2/-2 until end of turn.
+• Add {B}{B}.
+pt: 3/2 => 3/3
+
+Alan Scott
+cost: {4}{G} => {3}{G}
+rules_text: Ward {2}
+Whenever you attack, populate twice. [i](To populate, create a token that's a copy of a creature token you control.)[/i] => Whenever you attack, populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+Mr. Nobody
+rules_text: [+2]: Each player exiles a card from their hand and from their graveyard.
+[0]: You may cast a card exiled with Mr. Nobody, and you may spend mana as though it were mana of any color to cast it.
+[-4]: Exile target creature.
+[-8]: Each player exiles all but four permanents they control. => [+2]: Target player exiles a card from their hand and from their graveyard.
+[0]: You may cast a card exiled with Mr. Nobody, and you may spend mana as though it were mana of any color to cast it.
+[-4]: Exile target creature.
+[-8]: Each player exiles all but four permanents they control.
+special_text: [+2]: Each player exiles a card from their hand and from their graveyard.
+[0]: You may cast a card exiled with Mr. Nobody, and you may spend mana as though it were mana of any color to cast it.
+[-4]: Exile target creature.
+[-8]: Each player exiles all but four permanents they control. => [+2]: Target player exiles a card from their hand and from their graveyard.
+[0]: You may cast a card exiled with Mr. Nobody, and you may spend mana as though it were mana of any color to cast it.
+[-4]: Exile target creature.
+[-8]: Each player exiles all but four permanents they control.
+
+Cosmic Staff
+cost: {1} => {2}
+rules_text: Equipped creature gets +1/+0 and has flying.
+Whenever equipped creature deals combat damage to a player, draw a card.
+Equip {3} => Equipped creature has flying
+Whenever equipped creature deals combat damage to a player, draw a card.
+When Cosmic Staff enters, you may attach it to target creature.
+Equip {1}
+
+Circe
+type: Legendary Creature — Human Witch => Legendary Creature — Human Warlock
+rules_text: Ward {2}
+Whenever you cast a noncreature spell, choose one that hasn't been chosen this turn.
+• Untap up to two target permanents.
+• Draw a card, then discard a card.
+• Up to one target creature loses all abilities and becomes a 1/1 green Boar creature until end of turn. => Whenever you cast a noncreature spell, choose one that hasn't been chosen this turn.
+• Untap up to two target permanents.
+• Draw a card, then discard a card.
+• Up to one target creature loses all abilities and becomes a 1/1 green Boar creature until end of turn.
+
+Atom-Smasher
+cost: {4}{G}{G} => {3}{G}{G}
+rules_text: Ward {4}
+Trample => Trample
+When Atom-Smasher enters, destroy target noncreature, nonland permanent.
+pt: 6/6 => 5/4
+
+John Constantine
+rules_text: As you cast a spell, you may discard a card. If you do, it gains cascade. Do this only once each turn. [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i] => As you cast a spell, you may discard a card. If you do, it gains cascade. Do this only once each turn. [i](When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]
+
+Kyle Rayner
+rules_text: Whenever another nonland, nontoken permanent enters the battlefield under your control, you may pay {1}{G}. If you do, create a token that's a copy of it, except it's a 3/3 green Construct creature token and it's not legendary. => Ward {2}
+Vigilance
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+pt: 3/2 => 3/3
+
+Demon
+
+Treasure
+
+Elemental
+rules_text:  => Haste
+pt: 2/2 => 2/1
+
+Devil
+
+Junk
+
+Construct
+
+Construct
+
+Beast
+
+Ape
+
+Plant
+
+Everywhere
+
+Assassin
+
+Ninja
+
+Starfish
+
+Fish
+
+Robot
+
+Hero
+
+Themiscyra
+
+Food
+
+Shark
+
+
+VERSION 14 CHANGELOG
 ====================
 
 

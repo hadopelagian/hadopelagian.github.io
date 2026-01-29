@@ -153,7 +153,7 @@
 		{
 			"name": "Superman",
 			"rarity": "special",
-			"mana_cost": "{5}{W}{W}",
+			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Creature — Alien",
 			"collector_number": "44",
 			"image_uris": {
@@ -374,7 +374,7 @@
 			"name": "General Zod",
 			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Legendary Creature — Kryptonian Soldier",
+			"type": "Legendary Creature — Alien Soldier",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/37.png"
@@ -383,7 +383,7 @@
 		{
 			"name": "Neron",
 			"rarity": "special",
-			"mana_cost": "{5}{B}{B}{B}",
+			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Legendary Creature — Elder Demon",
 			"collector_number": "125",
 			"image_uris": {
@@ -553,7 +553,7 @@
 		{
 			"name": "Mera",
 			"rarity": "special",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Merfolk Noble",
 			"collector_number": "235",
 			"image_uris": {
@@ -2963,7 +2963,7 @@
 		{
 			"name": "Alan Scott",
 			"rarity": "special",
-			"mana_cost": "{4}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "198",
 			"image_uris": {
@@ -3093,7 +3093,7 @@
 		{
 			"name": "Cosmic Staff",
 			"rarity": "special",
-			"mana_cost": "{1}",
+			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "291",
 			"image_uris": {
@@ -3374,7 +3374,7 @@
 			"name": "Circe",
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Creature — Human Witch",
+			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "59",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/337.png"
@@ -3383,7 +3383,7 @@
 		{
 			"name": "Atom-Smasher",
 			"rarity": "special",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Human Mutant",
 			"collector_number": "201",
 			"image_uris": {
@@ -3645,7 +3645,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/364.png"
 			}
@@ -3665,7 +3665,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/366.png"
 			}
@@ -3705,7 +3705,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Blood",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/370.png"
 			}
@@ -3735,19 +3735,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Minion Army",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/373.png"
-			}
-		},
-		{
-			"name": "Elemental",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Elemental",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/374.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/373.png"
 			}
 		},
 		{
@@ -3757,7 +3747,7 @@
 			"type": "Token Creature — Demon",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/375.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/374.png"
 			}
 		},
 		{
@@ -3765,9 +3755,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/376.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/375.png"
 			}
 		},
 		{
@@ -3775,9 +3765,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/377.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/376.png"
 			}
 		},
 		{
@@ -3785,9 +3775,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Devil",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/378.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/377.png"
 			}
 		},
 		{
@@ -3795,7 +3785,17 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Junk",
-			"collector_number": "32",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/378.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Construct",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://hadopelagian.github.io/sets/DC3-files/img/379.png"
 			}
@@ -3811,23 +3811,13 @@
 			}
 		},
 		{
-			"name": "Construct",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Construct",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/381.png"
-			}
-		},
-		{
 			"name": "Beast",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/382.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/381.png"
 			}
 		},
 		{
@@ -3835,9 +3825,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Ape",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/383.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/382.png"
 			}
 		},
 		{
@@ -3845,9 +3835,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/384.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/383.png"
 			}
 		},
 		{
@@ -3855,9 +3845,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/385.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/384.png"
 			}
 		},
 		{
@@ -3867,7 +3857,7 @@
 			"type": "Token Creature — Assassin",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/386.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/385.png"
 			}
 		},
 		{
@@ -3875,9 +3865,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Ninja",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/387.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/386.png"
 			}
 		},
 		{
@@ -3887,7 +3877,7 @@
 			"type": "Token Creature — Starfish",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/388.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/387.png"
 			}
 		},
 		{
@@ -3897,7 +3887,7 @@
 			"type": "Token Creature — Fish",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/389.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/388.png"
 			}
 		},
 		{
@@ -3905,9 +3895,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Robot",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/390.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/389.png"
 			}
 		},
 		{
@@ -3917,7 +3907,7 @@
 			"type": "Token Creature — Hero",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/391.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/390.png"
 			}
 		},
 		{
@@ -3927,7 +3917,7 @@
 			"type": "Legendary Land",
 			"collector_number": "353",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/392.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/391.png"
 			}
 		},
 		{
@@ -3935,9 +3925,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/393.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/392.png"
 			}
 		},
 		{
@@ -3947,7 +3937,7 @@
 			"type": "Token Creature — Shark",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://hadopelagian.github.io/sets/DC3-files/img/394.png"
+				"en": "https://hadopelagian.github.io/sets/DC3-files/img/393.png"
 			}
 		}
 	]
