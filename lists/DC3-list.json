@@ -623,7 +623,7 @@
         "position": "155"
     },
     {
-        "card_name": "Doomsday",
+        "card_name": "Doomsday (DC3)",
         "number": 215,
         "shape": "normal",
         "set": "DC3",
@@ -714,14 +714,14 @@
         "position": "249"
     },
     {
-        "card_name": "Lazarus Rebirth",
+        "card_name": "Lazarus Pit",
         "number": 120,
         "shape": "normal",
         "set": "DC3",
         "position": "180"
     },
     {
-        "card_name": "Impulse",
+        "card_name": "Impulse (DC3)",
         "number": 169,
         "shape": "normal",
         "set": "DC3",
@@ -1001,7 +1001,7 @@
         "position": "34"
     },
     {
-        "card_name": "Living Lightning",
+        "card_name": "Living Lightning (DC3)",
         "number": 177,
         "shape": "normal",
         "set": "DC3",
@@ -2099,7 +2099,7 @@
         "position": "58"
     },
     {
-        "card_name": "Krona's Power Gauntlet",
+        "card_name": "Green Kryptonite",
         "number": 295,
         "shape": "normal",
         "set": "DC3",
@@ -2639,238 +2639,242 @@
         "position": "368"
     },
     {
+        "card_name": "On An Adventure",
+        "number": 2,
+        "shape": "token",
+        "set": "DC3",
+        "position": "394"
+    },
+    {
         "card_name": "Blood",
-        "number": 27,
+        "number": 28,
         "shape": "token",
         "set": "DC3",
         "position": "370"
     },
     {
         "card_name": "Clue",
-        "number": 28,
+        "number": 29,
         "shape": "token",
         "set": "DC3",
         "position": "364"
     },
     {
         "card_name": "Construct",
-        "number": 29,
+        "number": 30,
         "shape": "token",
         "set": "DC3",
         "position": "366"
     },
     {
         "card_name": "Food",
-        "number": 30,
+        "number": 31,
         "shape": "token",
         "set": "DC3",
         "position": "392"
     },
     {
         "card_name": "Junk",
-        "number": 31,
+        "number": 32,
         "shape": "token",
         "set": "DC3",
         "position": "378"
     },
     {
         "card_name": "Robot",
-        "number": 32,
+        "number": 33,
         "shape": "token",
         "set": "DC3",
         "position": "389"
     },
     {
         "card_name": "Treasure",
-        "number": 33,
+        "number": 34,
         "shape": "token",
         "set": "DC3",
         "position": "375"
     },
     {
         "card_name": "Everywhere",
-        "number": 34,
+        "number": 35,
         "shape": "token",
         "set": "DC3",
         "position": "384"
     },
     {
         "card_name": "Demigod",
-        "number": 2,
+        "number": 3,
         "shape": "token",
         "set": "DC3",
         "position": "359"
     },
     {
         "card_name": "Demigod",
-        "number": 3,
+        "number": 4,
         "shape": "token",
         "set": "DC3",
         "position": "363"
     },
     {
         "card_name": "God",
-        "number": 4,
+        "number": 5,
         "shape": "token",
         "set": "DC3",
         "position": "361"
     },
     {
         "card_name": "God's Wrath",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "DC3",
         "position": "362"
     },
     {
         "card_name": "Hero",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "DC3",
         "position": "390"
     },
     {
         "card_name": "Soldier",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "DC3",
         "position": "360"
     },
     {
         "card_name": "Drone",
-        "number": 8,
+        "number": 9,
         "shape": "token",
         "set": "DC3",
         "position": "365"
     },
     {
         "card_name": "Fish",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "DC3",
         "position": "388"
     },
     {
         "card_name": "Octopus",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "DC3",
         "position": "369"
     },
     {
         "card_name": "Shark",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "DC3",
         "position": "393"
     },
     {
         "card_name": "Starfish",
-        "number": 12,
+        "number": 13,
         "shape": "token",
         "set": "DC3",
         "position": "387"
     },
     {
         "card_name": "T-Sphere",
-        "number": 13,
+        "number": 14,
         "shape": "token",
         "set": "DC3",
         "position": "367"
     },
     {
         "card_name": "Alien",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "DC3",
         "position": "372"
     },
     {
         "card_name": "Assassin",
-        "number": 15,
+        "number": 16,
         "shape": "token",
         "set": "DC3",
         "position": "385"
     },
     {
         "card_name": "Demon",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "DC3",
         "position": "374"
     },
     {
         "card_name": "Demon Mutant",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "DC3",
         "position": "371"
     },
     {
         "card_name": "Minion Army",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "DC3",
         "position": "373"
     },
     {
         "card_name": "Ninja",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "DC3",
         "position": "386"
     },
     {
         "card_name": "Devil",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "DC3",
         "position": "377"
     },
     {
         "card_name": "Elemental",
-        "number": 21,
+        "number": 22,
         "shape": "token",
         "set": "DC3",
         "position": "376"
     },
     {
         "card_name": "Ape",
-        "number": 22,
+        "number": 23,
         "shape": "token",
         "set": "DC3",
         "position": "382"
     },
     {
         "card_name": "Beast",
-        "number": 23,
+        "number": 24,
         "shape": "token",
         "set": "DC3",
         "position": "381"
     },
     {
         "card_name": "Construct",
-        "number": 24,
+        "number": 25,
         "shape": "token",
         "set": "DC3",
         "position": "379"
     },
     {
         "card_name": "Construct",
-        "number": 25,
+        "number": 26,
         "shape": "token",
         "set": "DC3",
         "position": "380"
     },
     {
         "card_name": "Plant",
-        "number": 26,
+        "number": 27,
         "shape": "token",
         "set": "DC3",
         "position": "383"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
